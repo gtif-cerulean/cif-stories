@@ -71,6 +71,8 @@ By integrating multiple types of sea ice information into one tool, the CIF Dash
 
 The CIF Dashboard offers a practical, scalable solution that increases Arctic data availability and accessibility, helping make it more usable by those navigating some of the world’s most challenging waters.
 
-## Value and Impact
-Visit the CIF’s Beta Dashboard at https://cif.eox.at/ where you can find these and more tools to support the Arctic shipping sector, as well as tools for Aquaculture and Off-shore Renewable Energy.  
+## Use CIF's tools yourself
+Visit the CIF’s Beta Dashboard at https://cif.eox.at/ where you can find the above applications and more tools to support Arctic shipping. 
+
+The CIF Dashboard also provides tools focused on Aquaculture and Off-shore Renewable Energy.  
 
