@@ -6,12 +6,21 @@
   <img src="https://cif.polarview.org/wp-content/uploads/2024/05/CIF-Logo-v3-125.png" style="height: 200px;">
 </div>
 
-## 
-**Sector/Domain:** Arctic Shipping
 
-**Primary Stakeholders:** Commercial shipping operators, scientific missions, tourism vessels, northern logistics planners, marine analysts
+<table>
+  <tr>
+    <td style="text-align: left; padding-right: 20px;">
+      <img src="https://cif.polarview.org/wp-content/uploads/bb-plugin/cache/Shipping-Icon-circle-d3dfaffc3b3ce792813de5d7fdd64fdf-hwxq58bkvn93.png" 
+     style="height: 200px !important; width: 200px !important;">
+    </td>
+    <td style="vertical-align: top;">
+      <strong>Sector/Domain:</strong> Arctic Shipping<br><br>
+      <strong>Primary Stakeholders:</strong> Commercial shipping operators, scientific missions, tourism vessels, northern logistics planners, marine analysts<br><br>
+      <strong>CIF Use Case:</strong> Enhancing Arctic shipping decisions using multi-layered Earth observation data
+    </td>
+  </tr>
+</table>
 
-## Shipping icon <!--{as="img" src="https://cif.polarview.org/wp-content/uploads/bb-plugin/cache/Shipping-Icon-circle-d3dfaffc3b3ce792813de5d7fdd64fdf-hwxq58bkvn93.png" style="width: %; height: 200px;"}-->
 
 ## Context and Problem
 Ships voyaging through the North Atlantic and Arctic Oceans — where they may encounter sea ice or icebergs — are required under the International Maritime Organization’s **Polar Code** to consult timely and historical ice information to plan the safest possible route.
