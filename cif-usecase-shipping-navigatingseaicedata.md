@@ -24,13 +24,16 @@
   </tr>
 </table>
 
-
 ## Context and Problem
-Ships voyaging through the North Atlantic and Arctic Oceans are required under the International Maritime Organization’s **Polar Code** to consult timely and historical ice information to plan the safest possible route.
+Ships voyaging through the North Atlantic and Arctic Oceans are required under the *International Maritime Organization’s* **Polar Code** to consult timely and historical ice information to plan the safest possible route.
 
-Ship operators rely on ice charts manually produced by a handful of nations with ice services. The charts produced are authoritative, but are limited by being they are time-consuming to create, often low in resolution, and sometimes updated only weekly. Because they generalize conditions over large areas, they can miss critical navigational features like polynyas — narrow cracks in the ice that offer passage. Captains may refer to raw satellite radar images ("synthetic aperture radar" or SAR) for more immediate and detailed insight, but these are difficult to interpret without training, as ice and rough seas can appear similar.
+Ship operators rely on **ice charts** manually produced by a handful of nations with ice services. The resultant charts are authoritative, but are limited by being time-consuming to create, often low in resolution, and while typically updated daily, sometimes that frequency drops to weekly. Because ice charts generalize conditions over large areas, they can miss critical navigational features like polynyas — narrow cracks in the ice that offer passage. Captains may refer to the raw satellite radar images ("synthetic aperture radar" or SAR) used to create ice charts for more immediate and detailed insight, using their vast experience reading such images (wherein, for example, rough seas and ice may appear similar).
 
-Navigating safely in the Arctic is high-stakes: a wrong judgment can lead to route delays, excessive fuel use, damage to the vessel, or in severe cases, becoming trapped. What’s needed is a way to bring all this information together — visual, expert, machine-interpreted, and regulatory — into one accessible tool that supports real-time, confident decision-making.
+Navigating safely in the Arctic is high-stakes: a wrong judgment can lead to route delays, excessive fuel use, damage to the vessel, or in severe cases, becoming trapped in the ice. 
+
+
+
+What’s needed is a way to bring all this information together — visual, expert, machine-interpreted, and regulatory — into one accessible tool that supports real-time, confident decision-making.
 
 ## Map Tour Example <!--{ as="eox-map" mode="tour" }-->
 
