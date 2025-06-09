@@ -29,11 +29,16 @@ Navigating safely in the Arctic is high-stakes: a wrong judgment can lead to rou
 
 ## How the CIF Dashboard supports Arctic Shipping
 
-In addition to traditional ice charts – which include the concentration of sea ice (indicating the fraction of ocean surface covered by ice), its stage of development (ice age ranging from new to multi-year old ice), and floe size (size of individual ice floes, e.g., pancake, brash, medium floe) – new tools are being added to the AI is now being employed to create charts, doing the work of analyzing satellite radar images.   
+The CIF Dashboard brings together the traditional tools for navigating in the Arctic: 
+1. Satellite-based radar images (SAR images)
+2. Human-made ice charts, including the concentration of sea ice (indicating the fraction of ocean surface covered by ice), its stage of development (ice age ranging from new to multi-year old ice), and floe size (size of individual ice floes, e.g., pancake, brash, medium floe)
+3. **CA: POLARIS, etc.**
 
+In addition to these, new tools for ship route optimization in ice, developed by the National Research Council of Canada, and AI is now being employed to create ice charts, doing the work of analyzing satellite radar images, developed by the Danish Meteorological Institute, all available within the CIF Dashboard.   
 
+Through the CIF Dashboard, all of this information — visual, analysed by humans, machine-interpreted, and regulatory — is brought together into one accessible tool that supports ship operators to make confident decisions.
 
-Through the CIF Dashboard, all of this information — visual, expert, machine-interpreted, and regulatory — is brought together into one accessible tool that supports ship operators to make confident decisions.
+Here we present only part of what the CIF Dashboard is capable of in support of Arctic shipping, **focusing in this use case on four key data layers for interpreting and navigating ice and iceberg conditions.** 
 
 ## Map Tour Example <!--{ as="eox-map" mode="tour" }-->
 
