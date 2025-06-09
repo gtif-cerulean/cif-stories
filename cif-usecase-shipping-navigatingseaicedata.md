@@ -5,11 +5,7 @@
 <div style="text-align: center;">
   <img src="https://cif.polarview.org/wp-content/uploads/2024/05/CIF-Logo-v3-125.png" style="height: 200px;">
 </div>
-
-<div style="text-align: center;">
-  <h2>CIF Use Case: Enhancing Arctic shipping decisions using multi-layered Earth observation data</h2>
-</div>
-
+<br><br>
 <table>
   <tr>
     <td style="text-align: left; padding-right: 20px;">
@@ -17,9 +13,9 @@
      style="height: 200px !important; width: 200px !important;">
     </td>
     <td style="vertical-align: top;">
+			<h4>CIF Use Case</h4> Enhancing Arctic shipping decisions using multi-layered Earth observation data<br><br>
       <h4>Sector/Domain</h4> Arctic Shipping<br><br>
       <h4>Primary Stakeholders</h4> Commercial shipping operators, scientific missions, tourism vessels, northern logistics planners, marine analysts<br><br>
-      <strong>CIF Use Case:</strong> Enhancing Arctic shipping decisions using multi-layered Earth observation data
     </td>
   </tr>
 </table>
@@ -29,11 +25,15 @@ Ships voyaging through the North Atlantic and Arctic Oceans are required under t
 
 Ship operators rely on **ice charts** manually produced by a handful of nations with ice services. The resultant charts are authoritative, but are limited by being time-consuming to create, often low in resolution, and while typically updated daily, sometimes that frequency drops to weekly. Because ice charts generalize conditions over large areas, they can miss critical navigational features like polynyas — narrow cracks in the ice that offer passage. Captains may refer to the raw satellite radar images ("synthetic aperture radar" or SAR) used to create ice charts for more immediate and detailed insight, using their vast experience reading such images (wherein, for example, rough seas and ice may appear similar).
 
-Navigating safely in the Arctic is high-stakes: a wrong judgment can lead to route delays, excessive fuel use, damage to the vessel, or in severe cases, becoming trapped in the ice. 
+Navigating safely in the Arctic is high-stakes: a wrong judgment can lead to route delays, excessive fuel use, damage to the vessel, or in severe cases, becoming trapped in ice. The CIF Dashboard integrates traditional ice chart information with new tools to support ship operators to voyage safely through the Arctic. 
+
+## How the CIF Dashboard supports Arctic Shipping
+
+In addition to traditional ice charts – which include the concentration of sea ice (indicating the fraction of ocean surface covered by ice), its stage of development (ice age ranging from new to multi-year old ice), and floe size (size of individual ice floes, e.g., pancake, brash, medium floe) – new tools are being added to the AI is now being employed to create charts, doing the work of analyzing satellite radar images.   
 
 
 
-What’s needed is a way to bring all this information together — visual, expert, machine-interpreted, and regulatory — into one accessible tool that supports real-time, confident decision-making.
+Through the CIF Dashboard, all of this information — visual, expert, machine-interpreted, and regulatory — is brought together into one accessible tool that supports ship operators to make confident decisions.
 
 ## Map Tour Example <!--{ as="eox-map" mode="tour" }-->
 
@@ -92,4 +92,5 @@ The CIF Dashboard offers a practical, scalable solution that increases Arctic da
 Visit the CIF’s Beta Dashboard at https://cif.eox.at/ where you can find the above applications and more tools to support Arctic shipping. 
 
 The CIF Dashboard also provides tools focused on Aquaculture and Off-shore Renewable Energy.  
+
 
