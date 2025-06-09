@@ -6,7 +6,10 @@
   <img src="https://cif.polarview.org/wp-content/uploads/2024/05/CIF-Logo-v3-125.png" style="height: 200px;">
 </div>
 
-## CIF Use Case: Enhancing Arctic shipping decisions using multi-layered Earth observation data 
+<div style="text-align: center;">
+  <h2>CIF Use Case: Enhancing Arctic shipping decisions using multi-layered Earth observation data</h2>
+</div>
+
 <table>
   <tr>
     <td style="text-align: left; padding-right: 20px;">
@@ -14,8 +17,8 @@
      style="height: 200px !important; width: 200px !important;">
     </td>
     <td style="vertical-align: top;">
-      <strong>Sector/Domain:</strong> Arctic Shipping<br><br>
-      <strong>Primary Stakeholders:</strong> Commercial shipping operators, scientific missions, tourism vessels, northern logistics planners, marine analysts<br><br>
+      <h4>Sector/Domain</h4> Arctic Shipping<br><br>
+      <h4>Primary Stakeholders</h4> Commercial shipping operators, scientific missions, tourism vessels, northern logistics planners, marine analysts<br><br>
       <strong>CIF Use Case:</strong> Enhancing Arctic shipping decisions using multi-layered Earth observation data
     </td>
   </tr>
@@ -29,14 +32,25 @@ Ship operators rely on ice charts manually produced by a handful of nations with
 
 Navigating safely in the Arctic is high-stakes: a wrong judgment can lead to route delays, excessive fuel use, damage to the vessel, or in severe cases, becoming trapped. What’s needed is a way to bring all this information together — visual, expert, machine-interpreted, and regulatory — into one accessible tool that supports real-time, confident decision-making.
 
+## Map Tour Example <!--{ as="eox-map" mode="tour" }-->
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15,48] zoom="5" animationOptions="{duration:500}" }-->
+#### Tour Title
+Some description for tour 1
+
 ## Four-Layer Arctic Ice Intelligence
 
 The **Cerulean Information Factory (CIF) Dashboard** provides integrated four key layers of sea ice information into a single decision-support CIF Dashboard. This layered approach enables users to move between high-level assessments and detailed data, depending on their needs and level of expertise.
+
+# Nordica Icebreaker (FIMR) traversing ice <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-usecases-20250605/assets/BlackCA/Nordica-Icebreaker-FIMR-1749477300536.JPG" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/b46382492aeec855eaffefd87a1b8a374e128f52/assets/Nordica-Icebreaker-FIMR-1749477300536.JPG" }-->
+### Nordica Icebreaker traversing ice <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Data layer 1: Raw SAR imagery
 Real-time radar images from satellites that offer weather-independent views of current sea ice conditions. These are valuable for visual confirmation but can be difficult to interpret on their own.
 
 ## map layer 1 <!--{as="eox-map" style="width: 100%; height: 500px;" layers='[{"type":"Group","properties":{"id":"OverlayGroup","title":"Overlay Layers"},"layers":[{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857","attributions":"{ Overlay: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors, Made with Natural Earth, Rendering &copy; <a href=\"//eox.at\" target=\"_blank\">EOX</a> }"}}]},{"type":"Group","properties":{"id":"AnalysisGroup","title":"Data Layers"},"layers":[{"type":"Tile","properties":{"id":"sea_floor_depth;:;2017-01-01T00:00:00Z;:;wmts capabilities;:;EPSG:3857","title":"Sea floor depth below geoid"},"source":{"type":"WMTS","url":"https://wmts.marine.copernicus.eu/teroWmts","layer":"GLOBAL_ANALYSISFORECAST_PHY_001_024/cmems_mod_glo_phy_anfc_0.083deg_static_202211--ext--bathy/deptho","style":"default","matrixSet":"EPSG:3857","projection":"EPSG:3857","tileGrid":{"tileSize":[128,128]},"dimensions":{}}}]},{"type":"Group","properties":{"id":"BaseLayersGroup","title":"Base Layers"},"layers":[{"type":"Tile","properties":{"id":"sx-cat_ortho680500;:;EPSG:3857","title":"Terrain Light Stereographic North"},"source":{"type":"TileWMS","url":"//sxcat-demo.eox.at/sxcat_maps/wms","projection":"ORTHO:680500","tileGrid":{"tileSize":[512,512]},"attributions":"{ Terrain light: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }","params":{"LAYERS":"sx-cat_ortho680500","TILED":true}}},{"type":"Tile","properties":{"id":"cloudless-2022;:;EPSG:3857","title":"EOxCloudless 2022"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2022_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ EOxCloudless 2022: <a href=\"//s2maps.eu\" target=\"_blank\">Sentinel-2 cloudless - s2maps.eu</a> by <a href=\"//eox.at\" target=\"_blank\">EOX IT Services GmbH</a> (Contains modified Copernicus Sentinel data 2022) }"}},{"type":"Tile","properties":{"id":"terrain-light;:;EPSG:3857","title":"Terrain light"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/terrain-light_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ Terrain light: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }"}},{"type":"Tile","properties":{"id":"eox-osm;:;EPSG:3857","title":"OSM Background"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/osm_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ OSM: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }"}}]}]' zoom="4" center=[-35.64662933349613,43.27388039326814] projection="" }-->
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-usecases-20250605/assets/BlackCA/BAS-Polarstern-Shackleton-1749477404508.jpg" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/9f371377769e1651009fbd6e2902929ad7d09c27/assets/BAS-Polarstern-Shackleton-1749477404508.jpg" style="width: 100%; height: 600px;"}-->
 
 ## Data layer 2: Human-made ice charts
 Expert-drawn maps from national ice services that classify ice by type and concentration. These charts remain a legal reference point under the Polar Code, but are labor-intensive and often lack spatial detail.
