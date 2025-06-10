@@ -1,18 +1,109 @@
+# Navigating Sea Ice Data for Safer Arctic Navigation  <!--{ as="video" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-usecases-20250605/assets/BlackCA/BAS-Weddell-Sea-Clip-21-1749149546711.mp4" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/6603cd55fe0db19583f931719cfde77a39c22101/assets/BAS-Weddell-Sea-Clip-21-1749149546711.mp4" }-->
 
----
-title: CIF-UseCase-Shipping-NavigatingSeaIceAndSeaIceData
-cover-image: https://picsum.photos/id/53/800/600
----
 
-# CIF-UseCase-Shipping-NavigatingSeaIceAndSeaIceData <!--{ as="video" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
+#  
+<div style="text-align: center;">
+  <img src="https://cif.polarview.org/wp-content/uploads/2024/05/CIF-Logo-v3-125.png" style="height: 200px;">
+</div>
+<br><br>
+<table>
+  <tr>
+    <td style="text-align: left; padding-right: 20px;">
+      <img src="https://cif.polarview.org/wp-content/uploads/bb-plugin/cache/Shipping-Icon-circle-d3dfaffc3b3ce792813de5d7fdd64fdf-hwxq58bkvn93.png" 
+     style="height: 200px !important; width: 200px !important;">
+    </td>
+    <td style="vertical-align: top;">
+			<h4>CIF Use Case</h4> Enhancing Arctic shipping decisions using multi-layered Earth observation data<br><br>
+      <h4>Sector/Domain</h4> Arctic Shipping<br><br>
+      <h4>Primary Stakeholders</h4> Commercial shipping operators, scientific missions, tourism vessels, northern logistics planners, marine analysts<br><br>
+    </td>
+  </tr>
+</table>
 
-## CIF-UseCase-Shipping-NavigatingSeaIceAndSeaIceData
+## Context and Problem
+Ships voyaging through the North Atlantic and Arctic Oceans are required under the *International Maritime Organization’s* **Polar Code** to consult timely and historical ice information to plan the safest possible route.
 
-Text content
+Ship operators rely on **ice charts** manually produced by a handful of nations with ice services. The resultant charts are authoritative, but are limited by being time-consuming to create, often low in resolution, and while typically updated daily, sometimes that frequency drops to weekly. Because ice charts generalize conditions over large areas, they can miss critical navigational features like polynyas — narrow cracks in the ice that offer passage. Captains may refer to the raw satellite radar images ("synthetic aperture radar" or SAR) used to create ice charts for more immediate and detailed insight, using their vast experience reading such images (wherein, for example, rough seas and ice may appear similar).
 
-## Section A
-Text content
+Navigating safely in the Arctic is high-stakes: a wrong judgment can lead to route delays, excessive fuel use, damage to the vessel, or in severe cases, becoming trapped in ice. The CIF Dashboard integrates traditional ice chart information with new tools to support ship operators to voyage safely through the Arctic. 
 
-## Section B
-Text content
-        
+**[Question: How do I ensure the logo, which is currently in a table, is square in shape?]**
+
+**[Question: Can we have the above text scroll over an image?]**
+
+# How the CIF Dashboard supports Arctic Shipping <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-usecases-20250605/assets/BlackCA/Nordica-Icebreaker-FIMR-1749477300536.JPG" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/b46382492aeec855eaffefd87a1b8a374e128f52/assets/Nordica-Icebreaker-FIMR-1749477300536.JPG" }-->
+### Nordica Icebreaker (FIMR) traversing ice <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
+
+## 
+
+The CIF Dashboard brings together the traditional tools for navigating in the Arctic: 
+1. Satellite-based radar images (SAR images)
+2. Human-made ice charts, including the concentration of sea ice (indicating the fraction of ocean surface covered by ice), its stage of development (ice age ranging from new to multi-year old ice), and floe size (size of individual ice floes, e.g., pancake, brash, medium floe)
+3.  The POLARIS risk score, which combines ice chart data with a ship’s ice class rating to generate navigational risk scores across a region of interest.
+
+In addition to these, new tools for ship **route optimization** in ice, developed by the National Research Council of Canada, and **AI-derived ice charts**, doing the work of analyzing satellite radar images, developed by the Danish Meteorological Institute, as well as othe tools such as structural icing (the accumulation of ice on marine infrastructure) and ice dynamics and deformation (analyzing how the ice is moving, including the creation of pressurized ice) are all available within the [CIF Dashboard](https://cif.eox.at/).   
+
+Through the CIF Dashboard, all of this information — visual, analysed by humans, machine-interpreted, and regulatory — is brought together into one accessible tool that supports ship operators to make confident decisions.
+
+Here we present only part of what the CIF Dashboard is capable of in support of Arctic shipping, **focusing in this use case on four key data layers for interpreting and navigating ice and iceberg conditions.** 
+
+## Map Tour Example <!--{ as="eox-map" mode="tour" }-->
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15,48] zoom="5" animationOptions="{duration:500}" }-->
+#### Tour Title
+Some description for tour 1
+
+## Four-Layer Arctic Ice Intelligence
+
+The **Cerulean Information Factory (CIF) Dashboard** provides integrated four key layers of sea ice information into a single decision-support CIF Dashboard. This layered approach enables users to move between high-level assessments and detailed data, depending on their needs and level of expertise.
+
+## Data layer 1: Raw SAR imagery
+Real-time radar images from satellites that offer weather-independent views of current sea ice conditions. These are valuable for visual confirmation but can be difficult to interpret on their own.
+
+**[Question: can we have the heading as a ### level heading without the map printing over the text?]**
+
+## map layer 1 <!--{as="eox-map" style="width: 100%; height: 500px;" layers='[{"type":"Group","properties":{"id":"OverlayGroup","title":"Overlay Layers"},"layers":[{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857","attributions":"{ Overlay: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors, Made with Natural Earth, Rendering &copy; <a href=\"//eox.at\" target=\"_blank\">EOX</a> }"}}]},{"type":"Group","properties":{"id":"AnalysisGroup","title":"Data Layers"},"layers":[{"type":"Tile","properties":{"id":"sea_floor_depth;:;2017-01-01T00:00:00Z;:;wmts capabilities;:;EPSG:3857","title":"Sea floor depth below geoid"},"source":{"type":"WMTS","url":"https://wmts.marine.copernicus.eu/teroWmts","layer":"GLOBAL_ANALYSISFORECAST_PHY_001_024/cmems_mod_glo_phy_anfc_0.083deg_static_202211--ext--bathy/deptho","style":"default","matrixSet":"EPSG:3857","projection":"EPSG:3857","tileGrid":{"tileSize":[128,128]},"dimensions":{}}}]},{"type":"Group","properties":{"id":"BaseLayersGroup","title":"Base Layers"},"layers":[{"type":"Tile","properties":{"id":"sx-cat_ortho680500;:;EPSG:3857","title":"Terrain Light Stereographic North"},"source":{"type":"TileWMS","url":"//sxcat-demo.eox.at/sxcat_maps/wms","projection":"ORTHO:680500","tileGrid":{"tileSize":[512,512]},"attributions":"{ Terrain light: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }","params":{"LAYERS":"sx-cat_ortho680500","TILED":true}}},{"type":"Tile","properties":{"id":"cloudless-2022;:;EPSG:3857","title":"EOxCloudless 2022"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2022_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ EOxCloudless 2022: <a href=\"//s2maps.eu\" target=\"_blank\">Sentinel-2 cloudless - s2maps.eu</a> by <a href=\"//eox.at\" target=\"_blank\">EOX IT Services GmbH</a> (Contains modified Copernicus Sentinel data 2022) }"}},{"type":"Tile","properties":{"id":"terrain-light;:;EPSG:3857","title":"Terrain light"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/terrain-light_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ Terrain light: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }"}},{"type":"Tile","properties":{"id":"eox-osm;:;EPSG:3857","title":"OSM Background"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/osm_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ OSM: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }"}}]}]' zoom="4" center=[-35.64662933349613,43.27388039326814] projection="" }-->
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-usecases-20250605/assets/BlackCA/BAS-Polarstern-Shackleton-1749477404508.jpg" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/9f371377769e1651009fbd6e2902929ad7d09c27/assets/BAS-Polarstern-Shackleton-1749477404508.jpg" style="width: 100%; height: 600px;"}-->
+
+## Data layer 2: Human-made ice charts
+Expert-drawn maps from national ice services that classify ice by type and concentration. These charts remain a legal reference point under the Polar Code, but are labor-intensive and often lack spatial detail.
+
+## map layer 1 <!--{as="eox-map" style="width: 100%; height: 500px;" layers='[{"type":"Group","properties":{"id":"OverlayGroup","title":"Overlay Layers"},"layers":[{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857","attributions":"{ Overlay: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors, Made with Natural Earth, Rendering &copy; <a href=\"//eox.at\" target=\"_blank\">EOX</a> }"}}]},{"type":"Group","properties":{"id":"AnalysisGroup","title":"Data Layers"},"layers":[{"type":"Tile","properties":{"id":"sea_floor_depth;:;2017-01-01T00:00:00Z;:;wmts capabilities;:;EPSG:3857","title":"Sea floor depth below geoid"},"source":{"type":"WMTS","url":"https://wmts.marine.copernicus.eu/teroWmts","layer":"GLOBAL_ANALYSISFORECAST_PHY_001_024/cmems_mod_glo_phy_anfc_0.083deg_static_202211--ext--bathy/deptho","style":"default","matrixSet":"EPSG:3857","projection":"EPSG:3857","tileGrid":{"tileSize":[128,128]},"dimensions":{}}}]},{"type":"Group","properties":{"id":"BaseLayersGroup","title":"Base Layers"},"layers":[{"type":"Tile","properties":{"id":"sx-cat_ortho680500;:;EPSG:3857","title":"Terrain Light Stereographic North"},"source":{"type":"TileWMS","url":"//sxcat-demo.eox.at/sxcat_maps/wms","projection":"ORTHO:680500","tileGrid":{"tileSize":[512,512]},"attributions":"{ Terrain light: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }","params":{"LAYERS":"sx-cat_ortho680500","TILED":true}}},{"type":"Tile","properties":{"id":"cloudless-2022;:;EPSG:3857","title":"EOxCloudless 2022"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2022_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ EOxCloudless 2022: <a href=\"//s2maps.eu\" target=\"_blank\">Sentinel-2 cloudless - s2maps.eu</a> by <a href=\"//eox.at\" target=\"_blank\">EOX IT Services GmbH</a> (Contains modified Copernicus Sentinel data 2022) }"}},{"type":"Tile","properties":{"id":"terrain-light;:;EPSG:3857","title":"Terrain light"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/terrain-light_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ Terrain light: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }"}},{"type":"Tile","properties":{"id":"eox-osm;:;EPSG:3857","title":"OSM Background"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/osm_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ OSM: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }"}}]}]' zoom="4" center=[-35.64662933349613,43.27388039326814] projection="" }-->
+
+## Data layer 3: AI-derived ice charts
+Machine learning models developed by the Danish Meteorological Institute (DMI) interpret SAR and meteorological data to produce faster, scalable, and often higher-resolution ice charts. These can be compared side-by-side with traditional products in the CIF Dashboard.
+
+## map layer 1 <!--{as="eox-map" style="width: 100%; height: 500px;" layers='[{"type":"Group","properties":{"id":"OverlayGroup","title":"Overlay Layers"},"layers":[{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857","attributions":"{ Overlay: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors, Made with Natural Earth, Rendering &copy; <a href=\"//eox.at\" target=\"_blank\">EOX</a> }"}}]},{"type":"Group","properties":{"id":"AnalysisGroup","title":"Data Layers"},"layers":[{"type":"Tile","properties":{"id":"sea_floor_depth;:;2017-01-01T00:00:00Z;:;wmts capabilities;:;EPSG:3857","title":"Sea floor depth below geoid"},"source":{"type":"WMTS","url":"https://wmts.marine.copernicus.eu/teroWmts","layer":"GLOBAL_ANALYSISFORECAST_PHY_001_024/cmems_mod_glo_phy_anfc_0.083deg_static_202211--ext--bathy/deptho","style":"default","matrixSet":"EPSG:3857","projection":"EPSG:3857","tileGrid":{"tileSize":[128,128]},"dimensions":{}}}]},{"type":"Group","properties":{"id":"BaseLayersGroup","title":"Base Layers"},"layers":[{"type":"Tile","properties":{"id":"sx-cat_ortho680500;:;EPSG:3857","title":"Terrain Light Stereographic North"},"source":{"type":"TileWMS","url":"//sxcat-demo.eox.at/sxcat_maps/wms","projection":"ORTHO:680500","tileGrid":{"tileSize":[512,512]},"attributions":"{ Terrain light: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }","params":{"LAYERS":"sx-cat_ortho680500","TILED":true}}},{"type":"Tile","properties":{"id":"cloudless-2022;:;EPSG:3857","title":"EOxCloudless 2022"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2022_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ EOxCloudless 2022: <a href=\"//s2maps.eu\" target=\"_blank\">Sentinel-2 cloudless - s2maps.eu</a> by <a href=\"//eox.at\" target=\"_blank\">EOX IT Services GmbH</a> (Contains modified Copernicus Sentinel data 2022) }"}},{"type":"Tile","properties":{"id":"terrain-light;:;EPSG:3857","title":"Terrain light"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/terrain-light_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ Terrain light: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }"}},{"type":"Tile","properties":{"id":"eox-osm;:;EPSG:3857","title":"OSM Background"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/osm_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ OSM: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }"}}]}]' zoom="4" center=[-35.64662933349613,43.27388039326814] projection="" }-->
+
+## Data layer 4: POLARIS risk index with Polar Code integration
+The POLARIS algorithm combines ice chart data with a ship’s ice class rating to generate navigational risk scores. These help planners assess whether a ship can safely transit a given area, should proceed with caution, or should avoid it altogether. While not mandatory, POLARIS scores are often referenced by insurers in the event of an incident.
+
+## map layer 1 <!--{as="eox-map" style="width: 100%; height: 500px;" layers='[{"type":"Group","properties":{"id":"OverlayGroup","title":"Overlay Layers"},"layers":[{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857","attributions":"{ Overlay: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors, Made with Natural Earth, Rendering &copy; <a href=\"//eox.at\" target=\"_blank\">EOX</a> }"}}]},{"type":"Group","properties":{"id":"AnalysisGroup","title":"Data Layers"},"layers":[{"type":"Tile","properties":{"id":"sea_floor_depth;:;2017-01-01T00:00:00Z;:;wmts capabilities;:;EPSG:3857","title":"Sea floor depth below geoid"},"source":{"type":"WMTS","url":"https://wmts.marine.copernicus.eu/teroWmts","layer":"GLOBAL_ANALYSISFORECAST_PHY_001_024/cmems_mod_glo_phy_anfc_0.083deg_static_202211--ext--bathy/deptho","style":"default","matrixSet":"EPSG:3857","projection":"EPSG:3857","tileGrid":{"tileSize":[128,128]},"dimensions":{}}}]},{"type":"Group","properties":{"id":"BaseLayersGroup","title":"Base Layers"},"layers":[{"type":"Tile","properties":{"id":"sx-cat_ortho680500;:;EPSG:3857","title":"Terrain Light Stereographic North"},"source":{"type":"TileWMS","url":"//sxcat-demo.eox.at/sxcat_maps/wms","projection":"ORTHO:680500","tileGrid":{"tileSize":[512,512]},"attributions":"{ Terrain light: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }","params":{"LAYERS":"sx-cat_ortho680500","TILED":true}}},{"type":"Tile","properties":{"id":"cloudless-2022;:;EPSG:3857","title":"EOxCloudless 2022"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2022_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ EOxCloudless 2022: <a href=\"//s2maps.eu\" target=\"_blank\">Sentinel-2 cloudless - s2maps.eu</a> by <a href=\"//eox.at\" target=\"_blank\">EOX IT Services GmbH</a> (Contains modified Copernicus Sentinel data 2022) }"}},{"type":"Tile","properties":{"id":"terrain-light;:;EPSG:3857","title":"Terrain light"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/terrain-light_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ Terrain light: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }"}},{"type":"Tile","properties":{"id":"eox-osm;:;EPSG:3857","title":"OSM Background"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/osm_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ OSM: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }"}}]}]' zoom="4" center=[-35.64662933349613,43.27388039326814] projection="" }-->
+
+## Who Benefits
+
+CIF’s Arctic shipping tools are designed for a range of users, including:
+* **Commercial shipping companies** moving goods into and out of Arctic regions, such as ore from Baffin Island or supplies for remote communities.
+* **Tourism vessels**, some of which are among the world’s most ice-capable ships, seeking immersive experiences in ice-covered waters.
+* **Fishing fleets**, often small and operating near the ice edge, where accurate, high-resolution ice data is critical.
+* **Scientific research expeditions**, including those aiming to reach high-latitude study sites or the North Pole, sometimes with icebreaker support.
+
+## Value and Impact
+Value and Impact
+By integrating multiple types of sea ice information into one tool, the CIF Dashboard supports:
+* Improved safety, through clearer visibility into route-specific ice risks
+* Better route planning, reducing delays, fuel use, and emissions
+* Compliance with the Polar Code, by providing easy access to required and recommended data
+* Faster, more informed decision-making, especially for time-sensitive or high-cost voyages
+
+The CIF Dashboard offers a practical, scalable solution that increases Arctic data availability and accessibility, helping make it more usable by those navigating some of the world’s most challenging waters.
+
+## Use CIF's tools yourself
+Visit the CIF’s Beta Dashboard at https://cif.eox.at/ where you can find the above applications and more tools to support Arctic shipping. 
+
+The CIF Dashboard also provides tools focused on Aquaculture and Off-shore Renewable Energy.  
+
+
+
+
