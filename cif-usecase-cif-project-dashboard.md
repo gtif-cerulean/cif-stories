@@ -1,6 +1,12 @@
-# The CIF Dashboard for better navigation: of sea ice data and Arctic waters  <!--{ as="video" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-usecases-20250613/assets/BlackCA/BAS-Weddell-Sea-Clip-21-1751546090329.mp4" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/d53dd96375849926cc803c12c0771e248cb0f036/assets/BAS-Weddell-Sea-Clip-21-1751546090329.mp4" }-->
+---
+cover-image: https://raw.githubusercontent.com/gtif-cerulean/cif-stories/main/assets/BlackCA/polaris.png
+date: 2025-01-01
+theme: shipping
+tags: test
+official: true
+---
+# The CIF Dashboard for better navigation: of sea ice data and Arctic waters  <!--{ as="video" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-usecases-20250613/assets/BlackCA/BAS-Weddell-Sea-Clip-21-1751546090329.mp4" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/d53dd96375849926cc803c12c0771e248cb0f036/assets/BlackCA/BAS-Weddell-Sea-Clip-21-1751546090329.mp4" }-->
 ####  <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
-
 
 #  
 <div style="text-align: center;">
@@ -22,8 +28,6 @@
   </tr>
 </table>
 
-
-
 ## Context and Problem <!--{ as="img" mode="tour" }-->
 
 ### <!--{ src="https://cif.polarview.org/wp-content/uploads/2024/05/North-Atlantic-Map.png" }-->
@@ -40,7 +44,7 @@ Ship operators often refer to the raw satellite radar images, called "synthetic 
 #### Navigating safely in the Arctic is high-stakes
 A wrong judgment can lead to route delays, excessive fuel use, damage to the vessel, or in severe cases, becoming trapped in ice. In response to these challenges, the CIF Dashboard integrates SAR images and traditional ice charts with new tools to support ship operators to make confident decisions. 
 
-# Four-Layer Sea Ice Intelligence <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-usecases-20250613/assets/BlackCA/Nordica-Icebreaker-FIMR-1751547468888.JPG" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/2d940e2f891a3088e02537609be76ffc9bb1d9d0/assets/Nordica-Icebreaker-FIMR-1751547468888.JPG" }-->
+# Four-Layer Sea Ice Intelligence <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-usecases-20250613/assets/BlackCA/Nordica-Icebreaker-FIMR-1751547468888.JPG" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/2d940e2f891a3088e02537609be76ffc9bb1d9d0/assets/BlackCA/Nordica-Icebreaker-FIMR-1751547468888.JPG" }-->
 ### Nordica Icebreaker (FIMR) traversing ice <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 ##
@@ -48,12 +52,13 @@ A wrong judgment can lead to route delays, excessive fuel use, damage to the ves
 The CIF Dashboard brings together multiple tools, new and well-established, into one cloud-based platform. 
 
 Traditional tools for navigating in the Arctic:
+
 1. Satellite-based radar images (SAR images)
 2. Human-made ice charts:
     1. Concentration of sea ice (indicating the fraction of ocean surface covered by ice), 
     2. Stage of sea ice development (ice age ranging from new to multi-year old ice), and 
     3. Floe size (size of individual ice floes, e.g., pancake, brash, medium floe)
-3.  The POLARIS risk score, which combines ice chart data with a ship’s ice class rating to generate navigational risk scores across a region of interest.
+3. The POLARIS risk score, which combines ice chart data with a ship’s ice class rating to generate navigational risk scores across a region of interest.
 
 New tools available in the CIF Dashboard include **ship route optimization in ice**, developed by the National Research Council of Canada, and **AI-derived ice charts**, doing the work of analyzing satellite radar images, developed by the Danish Meteorological Institute, as well as other tools such as **structural icing** (the accumulation of ice on marine infrastructure) and **ice dynamics and deformation** (analyzing how the ice is moving, including the creation of pressurized ice), developed by C-CORE, are all available within the [CIF Dashboard](https://cif.eox.at/).   
 
@@ -79,33 +84,37 @@ These images are the basis for human-derived ice charts. They may also be used b
 
 Next, we'll look at the ice concentration, one of the maps provided as part of an ice chart. 
 
-### <!--{ layers='[{"type":"Group","properties":{"id":"OverlayGroup","title":"Overlay Layers"},"layers":[{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857","attributions":"{ Overlay: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors, Made with Natural Earth, Rendering &copy; <a href=\"//eox.at\" target=\"_blank\">EOX</a> }"}}]},{"type":"Group","properties":{"id":"AnalysisGroup","title":"Data Layers"},"layers":[{"type":"Tile","properties":{"id":"ice_concentration;:;2025-01-20T00:00:00Z;:;wmts capabilities;:;EPSG:3857","title":"Ice concentration"},"source":{"type":"WMTS","url":"https://wmts.marine.copernicus.eu/teroWmts","layer":"GLOBAL_ANALYSISFORECAST_PHY_001_024/cmems_mod_glo_phy_anfc_0.083deg_P1D-m_202406/siconc","style":"cmap:ice","matrixSet":"EPSG:3857","projection":"EPSG:3857","tileGrid":{"tileSize":[128,128]},"dimensions":{"time":"2025-01-20T00:00:00Z","elevation":"0"}}}]},{"type":"Group","properties":{"id":"BaseLayersGroup","title":"Base Layers"},"layers":[{"type":"Tile","properties":{"id":"sx-cat_ortho680500;:;EPSG:3857","title":"Terrain Light Stereographic North"},"source":{"type":"TileWMS","url":"//sxcat-demo.eox.at/sxcat_maps/wms","projection":"ORTHO:680500","tileGrid":{"tileSize":[512,512]},"attributions":"{ Terrain light: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }","params":{"LAYERS":"sx-cat_ortho680500","TILED":true}}},{"type":"Tile","properties":{"id":"cloudless-2022;:;EPSG:3857","title":"EOxCloudless 2022"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2022_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ EOxCloudless 2022: <a href=\"//s2maps.eu\" target=\"_blank\">Sentinel-2 cloudless - s2maps.eu</a> by <a href=\"//eox.at\" target=\"_blank\">EOX IT Services GmbH</a> (Contains modified Copernicus Sentinel data 2022) }"}},{"type":"Tile","properties":{"id":"terrain-light;:;EPSG:3857","title":"Terrain light"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/terrain-light_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ Terrain light: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }"}},{"type":"Tile","properties":{"id":"eox-osm;:;EPSG:3857","title":"OSM Background"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/osm_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ OSM: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }"}}]}]' zoom="5.3227335000352545" center=[-18.98843659860518,76.1554805359965] projection="" animationOptions={duration:500}}-->
+## Tour <!--{ as="img" mode="tour" nav="false"}-->
 
+### <!--{ src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/main/assets/BlackCA/ice_concentration.png" }-->
 #### Data layer 2: Human-made ice charts
 Ice charts are expert-drawn maps from national ice services that classify ice by type and concentration. These charts remain a legal reference point under the Polar Code, but are labor-intensive and often lack spatial detail.
 
 Here, we can see sea ice concentration, between 1/10 and 10/10 coverage. 
 
-### <!--{ layers='[{"type":"Group","properties":{"id":"OverlayGroup","title":"Overlay Layers"},"layers":[{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857","attributions":"{ Overlay: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors, Made with Natural Earth, Rendering &copy; <a href=\"//eox.at\" target=\"_blank\">EOX</a> }"}},{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857","attributions":"{ Overlay: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors, Made with Natural Earth, Rendering &copy; <a href=\"//eox.at\" target=\"_blank\">EOX</a> }"}}]},{"type":"Group","properties":{"id":"AnalysisGroup","title":"Data Layers"},"layers":[{"type":"WebGLTile","source":{"type":"GeoTIFF","normalize":false,"interpolate":false,"sources":[{"url":"https://eox-gtif-public.s3.eu-central-1.amazonaws.com/EOX/sea_ice_concentration/multisensorSeaIce_202501200600.tiff"}]},"properties":{"id":"sea_ice_detections;:;2025-01-20T06:00:00Z;:;0","title":"Sea Ice Detections"},"style":{"color":["case",[">",["band",1],0],["interpolate",["linear"],["/",["-",["band",1],60],40],0,[12,51,131,1],0.25,[10,136,186,1],0.5,[242,211,56,1],0.75,[242,143,56,1],1,[217,30,30,1]],[0,0,0,0]]}}]}}]}]' zoom="5.3227335000352545" center=[-18.98843659860518,76.1554805359965] projection="" animationOptions={duration:500}}-->
+### <!--{ src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/main/assets/BlackCA/ice_detections.png" }-->
 #### Data layer 3: AI-derived ice charts
 Machine learning models developed by the Danish Meteorological Institute (DMI) interpret SAR and meteorological data to produce faster, scalable, and often higher-resolution ice charts. These can be compared side-by-side with traditional products in the CIF Dashboard.
 
-Now on to our final data layer on this tour, to look at how the POLARIS algorithm determines shipping risk in polar waters. 
-
-### <!--{ layers='[{"type":"Group","properties":{"id":"OverlayGroup","title":"Overlay Layers"},"layers":[{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857","attributions":"{ Overlay: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors, Made with Natural Earth, Rendering &copy; <a href=\"//eox.at\" target=\"_blank\">EOX</a> }"}}]},{"type":"Group","properties":{"id":"AnalysisGroup","title":"Data Layers"},"layers":[{"type":"Vector","source":{"type":"FlatGeoBuf","url":"https://obs.eu-nl.otc.t-systems.com/gtif-data-cerulean1/output-polaris/202501200900_SouthEast_RIC-processed.fgb","format":"GeoJSON"},"properties":{"id":"Polaris_algorithm_dmi_demo;:;2025-01-20T09:00:00Z;:;0","title":"POLARIS"}}],"visible":true},{"type":"Group","properties":{"id":"BaseLayersGroup","title":"Base Layers"},"layers":[{"type":"Tile","properties":{"id":"sx-cat_ortho680500;:;EPSG:3857","title":"Terrain Light Stereographic North"},"source":{"type":"TileWMS","url":"//sxcat-demo.eox.at/sxcat_maps/wms","projection":"ORTHO:680500","tileGrid":{"tileSize":[512,512]},"attributions":"{ Terrain light: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }","params":{"LAYERS":"sx-cat_ortho680500","TILED":true}}},{"type":"Tile","properties":{"id":"cloudless-2022;:;EPSG:3857","title":"EOxCloudless 2022"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2022_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ EOxCloudless 2022: <a href=\"//s2maps.eu\" target=\"_blank\">Sentinel-2 cloudless - s2maps.eu</a> by <a href=\"//eox.at\" target=\"_blank\">EOX IT Services GmbH</a> (Contains modified Copernicus Sentinel data 2022) }"},"visible":true},{"type":"Tile","properties":{"id":"terrain-light;:;EPSG:3857","title":"Terrain light"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/terrain-light_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ Terrain light: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }"}},{"type":"Tile","properties":{"id":"eox-osm;:;EPSG:3857","title":"OSM Background"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/osm_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ OSM: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }"}}],"visible":true}]' zoom="5.600932974052083" center=[-28.440094657925023,65.85935412612687] projection="" animationOptions={duration:500}}-->
+### <!--{ src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/main/assets/BlackCA/polaris.png" }-->
 #### Data layer 4: POLARIS risk index with Polar Code integration
 The POLARIS algorithm combines ice chart data with a ship’s ice class rating to generate navigational risk scores. These help planners assess whether a ship can safely transit a given area, should proceed with caution, or should avoid it altogether. While not mandatory, POLARIS risk indices are often referenced by insurers in the event of an incident.
+
+Now on to our final data layer on this tour, to look at how the POLARIS algorithm determines shipping risk in polar waters. 
 
 ## Who Benefits
 
 CIF’s Arctic shipping tools are designed for a range of users, including:
+
 * **Commercial shipping companies** moving goods into and out of Arctic regions, such as ore from Baffin Island or supplies for remote communities.
 * **Tourism vessels**, some of which are among the world’s most ice-capable ships, seeking immersive experiences in ice-covered waters.
 * **Fishing fleets**, often small and operating near the ice edge, where accurate, high-resolution ice data is critical.
 * **Scientific research expeditions**, including those aiming to reach high-latitude study sites or the North Pole, sometimes with icebreaker support.
 
 ## Value and Impact
+
 By integrating multiple types of sea ice information into one tool, the CIF Dashboard supports:
+
 * Improved safety, through clearer information about route-specific ice risks
 * Better route planning, reducing delays, fuel use, and emissions
 * Compliance with the Polar Code, by providing easy access to required and recommended data
@@ -117,6 +126,3 @@ The CIF Dashboard offers a practical, scalable solution that increases Arctic da
 Visit the CIF’s Beta Dashboard at https://cif.eox.at/ where you can find the above applications and more tools to support Arctic shipping. 
 
 The CIF Dashboard also provides tools for Aquaculture and Off-shore Renewable Energy in the North Atlantic Ocean. 
-
-
-        
