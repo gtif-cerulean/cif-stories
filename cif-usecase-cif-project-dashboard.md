@@ -40,9 +40,6 @@ Ship operators often refer to the raw satellite radar images, called "synthetic 
 #### Navigating safely in the Arctic is high-stakes
 A wrong judgment can lead to route delays, excessive fuel use, damage to the vessel, or in severe cases, becoming trapped in ice. In response to these challenges, the CIF Dashboard integrates SAR images and traditional ice charts with new tools to support ship operators to make confident decisions. 
 
-**[Note: when creating an image tour, it's only available in md. code, not in the add section (+) in the preview, so not sure how to upload images for an image tour.]**
-
-
 # Four-Layer Sea Ice Intelligence <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-usecases-20250613/assets/BlackCA/Nordica-Icebreaker-FIMR-1751547468888.JPG" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/2d940e2f891a3088e02537609be76ffc9bb1d9d0/assets/Nordica-Icebreaker-FIMR-1751547468888.JPG" }-->
 ### Nordica Icebreaker (FIMR) traversing ice <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
@@ -50,15 +47,13 @@ A wrong judgment can lead to route delays, excessive fuel use, damage to the ves
 
 The CIF Dashboard brings together multiple tools, new and well-established, into one cloud-based platform. 
 
-Traditional tools for navigating in the Arctic: 
-
-**[Note: Should be numbered list, with a 3-item sub-list under item 2.]**
+Traditional tools for navigating in the Arctic:
 1. Satellite-based radar images (SAR images)
 2. Human-made ice charts:
     1. Concentration of sea ice (indicating the fraction of ocean surface covered by ice), 
     2. Stage of sea ice development (ice age ranging from new to multi-year old ice), and 
     3. Floe size (size of individual ice floes, e.g., pancake, brash, medium floe)
-6.  The POLARIS risk score, which combines ice chart data with a ship’s ice class rating to generate navigational risk scores across a region of interest.
+3.  The POLARIS risk score, which combines ice chart data with a ship’s ice class rating to generate navigational risk scores across a region of interest.
 
 New tools available in the CIF Dashboard include **ship route optimization in ice**, developed by the National Research Council of Canada, and **AI-derived ice charts**, doing the work of analyzing satellite radar images, developed by the Danish Meteorological Institute, as well as other tools such as **structural icing** (the accumulation of ice on marine infrastructure) and **ice dynamics and deformation** (analyzing how the ice is moving, including the creation of pressurized ice), developed by C-CORE, are all available within the [CIF Dashboard](https://cif.eox.at/).   
 
@@ -121,8 +116,6 @@ By integrating multiple types of sea ice information into one tool, the CIF Dash
 * Better route planning, reducing delays, fuel use, and emissions
 * Compliance with the Polar Code, by providing easy access to required and recommended data
 * Faster, more informed decision-making, especially for time-sensitive or high-cost voyages
-
-**[Note: Should be bulleted list (numbered would be fine too). The list shows as indented, but no bullets.]**
 
 The CIF Dashboard offers a practical, scalable solution that increases Arctic data availability and accessibility, helping make it more usable by those navigating some of the world’s most challenging waters.
 
