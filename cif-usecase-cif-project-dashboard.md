@@ -15,9 +15,9 @@ official: true
 <br><br>
 <table>
   <tr>
-    <td style="text-align: left; padding-right: 20px;">
+    <td style="text-align: left; padding-right: 20px;width: 300px">
       <img src="https://cif.polarview.org/wp-content/uploads/bb-plugin/cache/Shipping-Icon-circle-d3dfaffc3b3ce792813de5d7fdd64fdf-hwxq58bkvn93.png" 
-     style="height: 200px !important; width: 1600px !important;">
+     style="height: 300px; width: 300px ">
     </td>
     <td style="vertical-align: top;">
 			<h4>CIF Use Case</h4> Enhancing Arctic shipping decisions using multi-layered Earth observation data<br><br>
