@@ -3,7 +3,14 @@
 
 
 ## The Cerulean Information Factory (CIF), a project funded by the European Space Agency, provides decision support tools for the North Atlantic and Arctic Oceans
-Lorem Ipsum is s
+
+Named for the blue-green colour, the CIF project reflects the need to combine the Blue and Green Economies in order to have a successful Green Transition. focus will be on the North Atlantic and Arctic oceans between Canada and Europe.
+
+In the Green Transition to create a sustainable world, data and information that power our ability to make the decisions that count are coming to us more and more frequently from space.  
+
+How we view and understand the Earth are dramatically evolving with the increase in available data. The European Space Agency (ESA) handles tens of petabytes of data, much of which comes collected by turning satellites downward, focused on the Earth. With the acceleration of the development of AI techniques and cutting edge tools that decode that data into meaningful information, Earth Observation is helping us understand how our land, and our ocean, are changing. 
+
+ESA is working through its initiatives to support the translation of that data into information and tools that decision-makers can use to better inform their efforts to reach net-zero for communities, states, industries, marine protected areas, and more. 
 
 ## CIF logo <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-wordmark1-1759774247335.png" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/a3feb135f0accda51307e01ae62f6dd0d1c1b265/assets/CIF-wordmark1-1759774247335.png" style="width: 80%; height: 300px;"}-->
 
