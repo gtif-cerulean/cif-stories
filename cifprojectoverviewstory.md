@@ -22,7 +22,7 @@ CIF supports the Green Transition in three key domains:
     <td width="33%">
       <img src="https://cif.polarview.org/wp-content/uploads/bb-plugin/cache/Renewable-Energy-Icon-circle-711dbfca50d8eec834610f8691ba58bb-uhf68rygbpqz.png" alt="Offshore Renewable Energy example" width="100%">
       <h3>Offshore Renewable Energy</h3>
-      <p>Multi-parameter site screening and monitoring across wind, wave, tidal, and solar.</p>
+      <p>Off-shore renewable energy is poised to be part of the solution to Europe's ability to rely on green and domestic energy. On the other side of the North Atlantic Ocean, Canadian legislation is beginning the push to develop the industry, including joint federal and provincial legislation, including the governments of Nova Scotia and Newfoundland. CIF's tools support the planning for off-shore renewable energy sites by providing multi-parameter site screening and monitoring across wind, wave, tidal, and solar energy.</p>
     </td>
     <td width="33%">
       <img src="https://cif.polarview.org/wp-content/uploads/bb-plugin/cache/Aquaculture-Icon-2-circle-1ab7fd53f927bbcab22dd8805ed3ffc8-zj8nguo6daly.png" alt="Aquaculture example" width="100%">
