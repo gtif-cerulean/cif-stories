@@ -2,7 +2,7 @@
 ####  <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 
-## The Cerulean Information Factory (CIF), a project funded by the European Space Agency, provides decision support tools for the North Atlantic and Arctic Oceans
+## The Cerulean Information Factory (CIF), a project funded by the European Space Agency, provides decision support tools for the North Atlantic and Arctic Ocean
 
 Named for the blue-green colour, the CIF project reflects the need to combine the Blue and Green Economies in order to have a successful Green Transition. focus will be on the North Atlantic and Arctic oceans between Canada and Europe.
 
