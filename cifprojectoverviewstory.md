@@ -1,11 +1,11 @@
 # Cerulean Information Factory: the green future of the blue ocean <!--{ as="video" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/PXL20240402092954951reduced-1759775388489.mov" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/e64a7021c810f461096da22f559980b239774333/assets/PXL20240402092954951reduced-1759775388489.mov" }-->
-#### by EOX <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
+####  <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 
 ## What is Lorem Ipsum?
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-## CIF logo <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-wordmark1-1759774247335.png" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/a3feb135f0accda51307e01ae62f6dd0d1c1b265/assets/CIF-wordmark1-1759774247335.png" style="width: 80%; height: 400px;"}-->
+## CIF logo <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-wordmark1-1759774247335.png" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/a3feb135f0accda51307e01ae62f6dd0d1c1b265/assets/CIF-wordmark1-1759774247335.png" style="width: 80%; height: 300px;"}-->
 
 ## CIF overview
 <h2></h2>
