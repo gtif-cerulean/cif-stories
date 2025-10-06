@@ -1,13 +1,5 @@
-
----
-title: 
-cover-image: https://picsum.photos/id/53/800/600
----
-
-# Cerulean Information Factory: the green future of the blue ocean <!--{ as="video" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
-
-
-
+# Cerulean Information Factory: the green future of the blue ocean <!--{ as="video" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/PXL20240402092954951reduced-1759775388489.mov" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/e64a7021c810f461096da22f559980b239774333/assets/PXL20240402092954951reduced-1759775388489.mov" }-->
+#### by EOX <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 
 ## What is Lorem Ipsum?
