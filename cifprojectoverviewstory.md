@@ -1,13 +1,13 @@
-# Cerulean Information Factory: the green future of the blue ocean <!--{ as="video" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/PXL20240402092954951reduced-1759775388489.mov" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/e64a7021c810f461096da22f559980b239774333/assets/PXL20240402092954951reduced-1759775388489.mov" }-->
+# Cerulean Information Factory: a green future for the blue ocean <!--{ as="video" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/PXL20240402092954951reduced-1759775388489.mov" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/e64a7021c810f461096da22f559980b239774333/assets/PXL20240402092954951reduced-1759775388489.mov" }-->
 ####  <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 
-## What is Lorem Ipsum?
+## The Cerulean Information Factory (CIF), a project funded by the European Space Agency, provides decision support tools for the North Atlantic and Arctic Oceans
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 ## CIF logo <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-wordmark1-1759774247335.png" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/a3feb135f0accda51307e01ae62f6dd0d1c1b265/assets/CIF-wordmark1-1759774247335.png" style="width: 80%; height: 300px;"}-->
 
-## CIF overview
+## CIF Domains
 <h2></h2>
 <p>Explore how the platform supports Shipping, Offshore Renewable Energy, and Aquaculture.</p>
 
@@ -31,7 +31,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   </tr>
 </table>
 
-## Section B
+## Action toward the United Nations Decade of Ocean Science
+A contributor to the United Nations Decade of Ocean Science for Sustainable Development (Ocean Decade), working towards ‘The science we need for the ocean we want’, CIF has been deemed an Ocean Decade Action in support of taking that critical step of translating scientific data into information and making it available to decision-makers. 
 
         
 ## Visit the [CIF website](https://https://cif.polarview.org/) to find out more and try out our tools
