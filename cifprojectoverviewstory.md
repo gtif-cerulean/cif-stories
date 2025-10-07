@@ -2,13 +2,13 @@
 ####  <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 
-## The Cerulean Information Factory (CIF), a project funded by the European Space Agency, provides decision support tools for the North Atlantic and Arctic Ocean
+## The Cerulean Information Factory (CIF), a project funded by the European Space Agency, provides sustainabiliy-oriented decision support tools for the North Atlantic and Arctic Ocean
 
 Named for the blue-green colour, the CIF project reflects the need to combine the Blue and Green Economies in order to have a successful Green Transition. focus will be on the North Atlantic and Arctic oceans between Canada and Europe.
 
 In the Green Transition to create a sustainable world, data and information that power our ability to make the decisions that count are coming to us more and more frequently from space.  
 
-How we view and understand the Earth are dramatically evolving with the increase in available data. The European Space Agency (ESA) handles tens of petabytes of data, much of which comes collected by turning satellites downward, focused on the Earth. With the acceleration of the development of AI techniques and cutting edge tools that decode that data into meaningful information, Earth Observation is helping us understand how our land, and our ocean, are changing. 
+How we view and understand the Earth are dramatically evolving with the ever-increasing availability of data. The European Space Agency (ESA) handles tens of petabytes of data, much of which comes collected by turning satellites downward, focused on the Earth. With the acceleration of the development of AI techniques and cutting edge tools that decode that data into meaningful information, Earth Observation is helping us understand how our land, and our ocean, are changing. 
 
 ESA is working through its initiatives to support the translation of that data into information and tools that decision-makers can use to better inform their efforts to reach net-zero for communities, states, industries, marine protected areas, and more. 
 
@@ -24,7 +24,7 @@ CIF supports the Green Transition in three key domains:
     <td width="33%">
       <img src="https://cif.polarview.org/wp-content/uploads/bb-plugin/cache/Shipping-Icon-circle-d3dfaffc3b3ce792813de5d7fdd64fdf-hwxq58bkvn93.png" alt="Shipping example" width="100%">
       <h3>Shipping</h3>
-      <p>As global shipping continues to grow with trade and the opening up of more possibilities through the Arctic, CIF is responding by creating tools for carbon-intensity, ice-informed route planning for safer, lower-emission voyages in the presence of sea ice and icebergs.</p>
+      <p>As global shipping continues to grow with increasing trade, and in parallel the International Maritime Organization (IMO), alongside countries and companies, work to decrease the carbon impact of the industry, while more possibilities open in shipping through the Arctic, CIF is responding by creating tools for minimizing a ship's carbon-intensity (an IMO-regulated index) and ice-informed route planning for safer, lower-emission voyages in the presence of sea ice and icebergs.</p>
     </td>
     <td width="33%">
       <img src="https://cif.polarview.org/wp-content/uploads/bb-plugin/cache/Renewable-Energy-Icon-circle-711dbfca50d8eec834610f8691ba58bb-uhf68rygbpqz.png" alt="Offshore Renewable Energy example" width="100%">
