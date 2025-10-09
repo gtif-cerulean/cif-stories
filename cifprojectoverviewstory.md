@@ -1,8 +1,11 @@
 # Cerulean Information Factory: a green future for the blue ocean <!--{ as="video" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/PXL20240402092954951reduced-1759775388489.mov" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/e64a7021c810f461096da22f559980b239774333/assets/PXL20240402092954951reduced-1759775388489.mov" }-->
 ####  <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
-
 ## The Cerulean Information Factory (CIF), a project funded by the European Space Agency, provides sustainabiliy-oriented decision support tools for the North Atlantic and Arctic Ocean
+
+Using satellite-based data, the latest in data processing and AI techniques, and a user-centric , the CIF offers a cloud-based data analysis and visualization environment for your needs in the North Atlantic and Arctic Oceans. Focused on shipping, aquaculture and offshore renewable energy, in engaging with stakeholders in these three fields, CIF responds to your Green Transition decision-support needs. 
+
+... [CA: add subhead or visualization to break this up.]
 
 In the transition to create a sustainable world, how we view and understand the Earth are dramatically evolving with the ever-increasing availability of data, in particular from data collected from space. The European Space Agency (ESA) handles tens of petabytes of data, much of which comes by turning satellites downward, toward the Earth. With the acceleration of the development of AI techniques and cutting edge tools that decode that data into meaningful information, Earth Observation is helping us understand how our land, and our ocean, are changing. 
 
