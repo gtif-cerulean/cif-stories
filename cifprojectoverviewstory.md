@@ -49,35 +49,17 @@ Each tour step is described as an *h3* (*###*) heading.
 #### Cloud-based decision-support
 
 
-## CIF Domains
-CIF's tools support the Green Transition in three key domains:
+## Tour the Dashboard
+The CIF Dashboard, at [cif.eox.at](https://cif.eox.at/), provides a cloud-based platform for data analyses and visualizations. CIF's tools support the Green Transition in three key domains: polar shipping, aquaculture, and offshore renewable energy.
 
 <div>
+	  <h3>Shipping</h3>
   <img src="https://cif.polarview.org/wp-content/uploads/bb-plugin/cache/Shipping-Icon-circle-d3dfaffc3b3ce792813de5d7fdd64fdf-hwxq58bkvn93.png"
        alt="Shipping example"
        width="15%"><br>
-  <h3>Shipping</h3>
   <p>As global shipping continues to grow with increasing trade, and in parallel the International Maritime Organization (IMO), alongside countries and companies, work to decrease the carbon impact of the industry, while more possibilities open in shipping through the Arctic, CIF is responding by creating <b>tools for minimizing a ship's carbon-intensity (an IMO-regulated index) and ice-informed route planning for safer, lower-emission voyages in the presence of sea ice and icebergs.</b></p>
   <br>
 </div>
-[note: could have shipping map tour here to break up this text.]
-
-<div>
-  <img src="https://cif.polarview.org/wp-content/uploads/bb-plugin/cache/Renewable-Energy-Icon-circle-711dbfca50d8eec834610f8691ba58bb-uhf68rygbpqz.png" alt="Offshore Renewable Energy example" width="15%"><br>
-  <h3>Offshore Renewable Energy</h3>
-  <p>Off-shore renewable energy is poised to be part of the solution to Europe's ability to rely on green and domestic energy. On the other side of the North Atlantic Ocean, Canadian legislation is beginning the push to develop the industry, including joint federal and provincial legislation, including the governments of Nova Scotia and Newfoundland. CIF's <b>tools support the planning for off-shore renewable energy sites by providing multi-parameter site screening and monitoring across wind, wave, tidal, and solar energy.</b></p>
-  <br>
-</div>
-
-<div>
-  <img src="https://cif.polarview.org/wp-content/uploads/bb-plugin/cache/Aquaculture-Icon-2-circle-1ab7fd53f927bbcab22dd8805ed3ffc8-zj8nguo6daly.png" alt="Aquaculture example" width="15%"><br>
-  <h3>Aquaculture</h3>
-  <p>According to the UN Food and Agriculture Organization (FAO), in 2022, global aquaculture production surpassed capture fisheries for the first time in recorded history, and 60% of fish consumed globally is projected to come from aquaculture by 2030. CIF is supporting this growth by providing <b>tools for aquaculture site suitability and early warning signals (e.g., harmful algal blooms) to reduce risk.</b></p>
-  <br>
-</div>
-
-## Tour the CIF Dashboard
-The CIF Dashboard, at [cif.eox.at](https://cif.eox.at/), provides a cloud-based platform for data analyses and visualizations, including integrated ...
 
 ## Shipping <!--{ as="eox-map" mode="tour" }-->
 
@@ -85,6 +67,23 @@ The CIF Dashboard, at [cif.eox.at](https://cif.eox.at/), provides a cloud-based 
 #### Sea Ice Thickness in the Baltic Sea
 This physical model product provides forecasts for the physical conditions in the Blatic Sea. The forecast is updated twice daily, and has a resolution of 1 nautical mile in the horitzontal.
 
+
+## 
+ <h3>Offshore Renewable Energy</h3>
+<div>
+  <img src="https://cif.polarview.org/wp-content/uploads/bb-plugin/cache/Renewable-Energy-Icon-circle-711dbfca50d8eec834610f8691ba58bb-uhf68rygbpqz.png" alt="Offshore Renewable Energy example" width="15%"><br>
+  <p>Off-shore renewable energy is poised to be part of the solution to Europe's ability to rely on green and domestic energy. On the other side of the North Atlantic Ocean, Canadian legislation is beginning the push to develop the industry, including joint federal and provincial legislation, including the governments of Nova Scotia and Newfoundland. CIF's <b>tools support the planning for off-shore renewable energy sites by providing multi-parameter site screening and monitoring across wind, wave, tidal, and solar energy.</b></p>
+  <br>
+</div>
+
+
+##
+ <h3>Aquaculture</h3>
+<div>
+  <img src="https://cif.polarview.org/wp-content/uploads/bb-plugin/cache/Aquaculture-Icon-2-circle-1ab7fd53f927bbcab22dd8805ed3ffc8-zj8nguo6daly.png" alt="Aquaculture example" width="15%"><br>
+  <p>According to the UN Food and Agriculture Organization (FAO), in 2022, global aquaculture production surpassed capture fisheries for the first time in recorded history, and 60% of fish consumed globally is projected to come from aquaculture by 2030. CIF is supporting this growth by providing <b>tools for aquaculture site suitability and early warning signals (e.g., harmful algal blooms) to reduce risk.</b></p>
+  <br>
+</div>
 
 
 ## Action toward the United Nations Decade of Ocean Science for Sustainable Development
