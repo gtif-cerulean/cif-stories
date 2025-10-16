@@ -127,3 +127,6 @@ A contributor to the United Nations Decade of Ocean Science for Sustainable Deve
 CIF website:  [cif.polarview.org](https://cif.polarview.org/) 
 
 CIF Dashboard: [cif.eox.at](https://cif.eox.at/)
+
+# CIF Dashboard  <!--{ as="video" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/VisitDashboard-2-1760642824030.mov" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/c0e8043e8bccae2ccd75e2e3ed62d0430d7ae1cf/assets/VisitDashboard-2-1760642824030.mov" }-->
+####  <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
