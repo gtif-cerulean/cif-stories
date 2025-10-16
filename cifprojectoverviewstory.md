@@ -35,7 +35,7 @@ Taking satellite-based data and making into information that decision-makers can
 
 ## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/IMG1499-NPI-high-res-1760572999140.JPG" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/0c60866543ab0ca5491143a1c6465c5cbd2296a5/assets/IMG1499-NPI-high-res-1760572999140.JPG" style="width: 100%; height: 600px;"}-->
 
-## Image Tour section <!--{ as="img" mode="tour" }-->
+## Image Tour section <!--{ as="img" mode="tour" position="right"}-->
 
 ### <!--{ src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/0c60866543ab0ca5491143a1c6465c5cbd2296a5/assets/IMG1499-NPI-high-res-1760572999140.JPG" style="background: #fff0c4;" }-->
 #### This is an image tour.
@@ -80,6 +80,12 @@ CIF's tools support the Green Transition in three key domains:
 The CIF Dashboard, at [cif.eox.at](https://cif.eox.at/), provides a cloud-based platform for data analyses and visualizations, including integrated ...
 
 Here need three map tours, each showcasing central capabilities for each domain. 
+
+## Shipping <!--{ as="eox-map" mode="tour" }-->
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15,48] zoom="5" animationOptions="{duration:500}" }-->
+#### Sea Ice Thickness in the Baltic Sea
+This physical model product provides forecasts for the physical conditions in the Blatic Sea. The forecast is updated twice daily, and has a resolution of 1 nautical mile in the horitzontal.
 
 ## Action toward the United Nations Decade of Ocean Science for Sustainable Development
 
