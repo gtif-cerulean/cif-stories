@@ -60,7 +60,7 @@ CIF's tools support the Green Transition in three key domains:
   <p>As global shipping continues to grow with increasing trade, and in parallel the International Maritime Organization (IMO), alongside countries and companies, work to decrease the carbon impact of the industry, while more possibilities open in shipping through the Arctic, CIF is responding by creating <b>tools for minimizing a ship's carbon-intensity (an IMO-regulated index) and ice-informed route planning for safer, lower-emission voyages in the presence of sea ice and icebergs.</b></p>
   <br>
 </div>
-
+[note: could have shipping map tour here to break up this text.]
 
 <div>
   <img src="https://cif.polarview.org/wp-content/uploads/bb-plugin/cache/Renewable-Energy-Icon-circle-711dbfca50d8eec834610f8691ba58bb-uhf68rygbpqz.png" alt="Offshore Renewable Energy example" width="15%"><br>
