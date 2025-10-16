@@ -18,18 +18,17 @@
   <p>Named for the blue-green colour, the CIF project reflects the need to combine the Blue and Green Economies in order to have a successful Green Transition. 
 Focused on shipping, aquaculture and offshore renewable energy, through close engagement with potential end users, CIF responds to your Green Transition decision-support needs. </p> 
 	
-	
-	
 In the transition to create a sustainable world, how we view and understand the Earth are dramatically evolving with the ever-increasing availability of data, in particular, data from space. 
 
 With the acceleration of the development of AI techniques and cutting edge tools that take in data and create meaningful information, satellite-based data is helping us understand how our land, and our ocean, are changing. 
 
 Using satellite-based data, the latest in data processing and AI techniques, and a user-centric environment, CIF offers a cloud-based data analysis and visualization environment for your needs in the North Atlantic and Arctic Oceans. 
 
-# test2 <!--{ as="video" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/test2-1-1760574765263.mov" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/9d97b59baed63c5b4467bee3ca1cad987c8c3a66/assets/test2-1-1760574765263.mov" }-->
-#### by EOX <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
-
 Taking satellite-based data and making into information that decision-makers can use to better inform their efforts to reach net-zero for communities, states, industries, marine protected areas, and more. 
+
+# CIF Dashboard <!--{ as="video" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-Dashboard1-1760640655409.mov" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/4295f1ff9c603860e178de188c93ee01355c2926/assets/CIF-Dashboard1-1760640655409.mov" }-->
+#### <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
+In a cloud-based user environment, the CIF Dashboard offers decision-makers click-and-go tools to get the information they need to better inform their efforts to reach net-zero for communities, states, industries, marine protected areas, and more.
 
 ## Image Tour section <!--{ as="img" mode="tour" position="right"}-->
 
