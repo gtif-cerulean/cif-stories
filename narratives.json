@@ -1,19 +1,26 @@
 [
   {
+    "cover-image": "https://raw.githubusercontent.com/gtif-cerulean/cif-stories/refs/heads/main/assets/BlackCA/IMG_1499NPI.JPG",
+    "date": "2025-01-01",
+    "theme": "shipping,aquaculture,",
+    "tags": "test",
+    "official": true,
+    "title": "Cerulean Information Factory: a green future for the blue ocean",
+    "subtitle": " ",
+    "image": "assets/previews/IMG_1499NPI_preview.png",
+    "provider": "agency",
+    "file": "https://gtif-cerulean.github.io/cif-stories/cifprojectoverviewstory.md"
+  },
+  {
     "cover-image": "https://raw.githubusercontent.com/gtif-cerulean/cif-stories/main/assets/BlackCA/polaris.png",
     "date": "2025-01-01",
     "theme": "shipping",
     "tags": "test",
     "official": true,
-    "file": "https://gtif-cerulean.github.io/cif-stories/cif-usecase-cif-project-dashboard.md",
     "title": "The CIF Dashboard for better navigation: of sea ice data and Arctic waters",
     "subtitle": " ",
-    "image": null
-  },
-  {
-    "file": "https://gtif-cerulean.github.io/cif-stories/cifprojectoverviewstory.md",
-    "title": "Cerulean Information Factory: a green future for the blue ocean",
-    "subtitle": " ",
-    "image": null
+    "image": "assets/previews/polaris_preview.png",
+    "provider": "agency",
+    "file": "https://gtif-cerulean.github.io/cif-stories/cif-usecase-cif-project-dashboard.md"
   }
 ]
