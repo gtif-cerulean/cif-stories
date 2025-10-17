@@ -1,17 +1,5 @@
 [
   {
-    "cover-image": "https://raw.githubusercontent.com/gtif-cerulean/cif-stories/main/assets/BlackCA/polaris.png",
-    "date": "2025-01-01",
-    "theme": "shipping",
-    "tags": "test",
-    "official": true,
-    "title": "The CIF Dashboard for better navigation: of sea ice data and Arctic waters",
-    "subtitle": " ",
-    "image": "assets/previews/polaris_preview.png",
-    "provider": "agency",
-    "file": "https://gtif-cerulean.github.io/cif-stories/cif-usecase-cif-project-dashboard.md"
-  },
-  {
     "cover-image": "https://raw.githubusercontent.com/gtif-cerulean/cif-stories/refs/heads/main/assets/BlackCA/IMG_1499NPI.JPG",
     "date": "2025-01-01",
     "theme": "shipping",
@@ -22,5 +10,17 @@
     "image": "assets/previews/IMG_1499NPI_preview.png",
     "provider": "agency",
     "file": "https://gtif-cerulean.github.io/cif-stories/cifprojectoverviewstory.md"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/gtif-cerulean/cif-stories/main/assets/BlackCA/polaris.png",
+    "date": "2025-01-01",
+    "theme": "shipping",
+    "tags": "test",
+    "official": true,
+    "title": "The CIF Dashboard for better navigation: of sea ice data and Arctic waters",
+    "subtitle": " ",
+    "image": "assets/previews/polaris_preview.png",
+    "provider": "agency",
+    "file": "https://gtif-cerulean.github.io/cif-stories/cif-usecase-cif-project-dashboard.md"
   }
 ]

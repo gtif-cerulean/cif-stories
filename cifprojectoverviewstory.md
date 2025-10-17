@@ -54,7 +54,7 @@ So you don't have to download and manage satellite data files, CIF provides a cl
 
 Photo credit: Ocean Image Bank: Thomas Horig
 
-### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/OceanImageBank_TobyMatthews_17%E2%80%93orcaNorway.jpg?raw=true" style="background: #fff0c4;" }-->
+### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/OceanImageBank_TobyMatthews_17_orcaNorway.jpg?raw=true" style="background: #fff0c4;" }-->
 #### UN Ocean Decade 
 ![](https://cif.polarview.org/wp-content/uploads/2025/03/UN-Ocean-Decade-Logo.png)
 CIF has been endorsed as a UN Ocean Decade Action, in support of taking that critical step of translating scientific data into information available to decision-makers. 
