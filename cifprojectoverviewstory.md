@@ -113,7 +113,6 @@ Ranging from no icing (blue) to extreme icing at a rate of above 4 cm/hr (red), 
 Site planning for aquaculture using your requirements and weightings (relative importance) for maximum wave height, ice and iceberg concentration, ranging from optimal (blue) to least suitable (red).  
 
 
-
 ## Action toward the United Nations Decade of Ocean Science for Sustainable Development
 
 <img src="https://cif.polarview.org/wp-content/uploads/2025/03/UN-Ocean-Decade-Logo.png" alt="Ocean Decade logo" width="30%">
@@ -127,6 +126,3 @@ A contributor to the United Nations Decade of Ocean Science for Sustainable Deve
 CIF website:  [cif.polarview.org](https://cif.polarview.org/) 
 
 CIF Dashboard: [cif.eox.at](https://cif.eox.at/)
-
-# CIF Dashboard  <!--{ as="video" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/VisitDashboard-2-1760642824030.mov" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/c0e8043e8bccae2ccd75e2e3ed62d0430d7ae1cf/assets/VisitDashboard-2-1760642824030.mov" }-->
-####  <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
