@@ -1,7 +1,7 @@
 ---
 cover-image: https://raw.githubusercontent.com/gtif-cerulean/cif-stories/refs/heads/main/assets/BlackCA/IMG_1499NPI.JPG
 date: 2025-01-01
-theme: shipping,aquaculture,
+theme: shipping
 tags: test
 official: true
 ---
