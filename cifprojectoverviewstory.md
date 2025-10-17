@@ -16,37 +16,34 @@
  <h3>Combining the Blue and Green Economies</h3>
   <p>Named for the blue-green colour, the CIF project reflects the need to combine the Blue and Green Economies in order to have a successful Green Transition. 
 
-In the transition to create a sustainable world, how we view and understand the Earth are dramatically evolving with the ever-increasing availability of data, in particular, data from space. 
+In the transition to create a sustainable world, how we view and understand the Earth are dramatically evolving with the ever-increasing availability of data, in particular, from space. 
 	
-Using satellite-based data, the latest in data processing and AI techniques, and a user-centric environment, CIF offers a cloud-based data analysis and visualization environment for your needs in the North Atlantic and Arctic Oceans. 
-
-
-Focused on **shipping, aquaculture and offshore renewable energy,** through close engagement with end users, CIF's tools are taylor-made to support 
-	
-CIF responds to your Green Transition decision-support needs. </p> 
+As an organization handling tens of petabytes of space-based data, the European Space Agency (ESA) is responding the need to make that data into information for decision-makers. ESA is supporting the creation “Green Transition Information Factories” (GTIFs) that will use Earth Observation (EO) data, geospatial and digital platform technologies, and advanced analytics to generate actionable knowledge and decision support for climate change impact reduction and adaptation. The CIF is funded under the ESA GTIF Program, and is the only ocean-focused GTIF. </p> 
 	
 # CIF Dashboard <!--{ as="video" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-Dashboard1-1760640655409.mov" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/4295f1ff9c603860e178de188c93ee01355c2926/assets/CIF-Dashboard1-1760640655409.mov" }-->
 #### <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
-In a cloud-based user environment, the CIF Dashboard offers decision-makers click-and-go tools to get the information they need to better inform their efforts to reach net-zero for communities, states, industries, marine protected areas, and more.
+In a cloud-based user environment, the CIF Dashboard offers decision-makers click-and-go tools to get the information they need to better inform their efforts to reach net-zero for shipping, offshore renewable energy and aquaculture.
 
 ## Image Tour section <!--{ as="img" mode="tour" position="right"}-->
 
-### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/OceanImageBank_TobyMatthews_17%E2%80%93orcaNorway.jpg?raw=true" style="background: #fff0c4;" }-->
-#### A focus on coldwater and polar regions 
-The CIF Dashboard offers a new view of ocean information, all in one place, allowing you to layer and visualize multiple ocean variables in three domains:
-Shipping
-Offshore Renewable Energy
-Aquaculture
+### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/IMG_1499NPI.JPG?raw=true" style="background: #ffe7ef;" }-->
+#### CIF: A focus on coldwater and polar regions  
+The CIF Dashboard offers a new view of ocean information, all in one place, allowing you to layer and visualize multiple ocean variables in three domains:  
+1. 
+**Shipping**  
+2. **Offshore Renewable Energy**  
+3. **Aquaculture**  
+
+
+### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/OceanImageBank_ThomasHorig_26.jpg?raw=true" style="background: #fff0c4;" }-->
+#### Data analyses and visualizations
+Algorithms tailored to user needs have been developed and implemented on the CIF Dashboard so that you can visualize the data and get the information you need with a few clicks. 
 
 Photo credit: Ocean Image Bank: Thomas Horig
 
-### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/IMG_1499NPI.JPG?raw=true" style="background: #ffe7ef;" }-->
-#### Ready-to-go analyses
-Algorithms tailored to user needs have been developed and implemented on the CIF Dashboard so that you can get the information you need with a few clicks. 
-
 ### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/OceanImageBank_ThomasHorig_15.jpg?raw=true" style="background: #e2fffc;" }-->
 #### Cloud-based decision-support
-So you don't have to download and manage the load of satellite data files, CIF provides a cloud-based platform where you can conduct your analyses and export the results. 
+So you don't have to download and manage satellite data files, CIF provides a cloud-based platform where you can conduct your analyses and export the results. 
 
 Photo credit: Ocean Image Bank: Thomas Horig
 
@@ -57,11 +54,11 @@ CIF has been endorsed as a UN Ocean Decade Action, in support of taking that cri
 
 Photo credit: Ocean Image Bank: Thomas Horig
 
-## Tour the Dashboard
-The CIF Dashboard, at [cif.eox.at](https://cif.eox.at/) supports the Green Transition in three key domains: **polar shipping, aquaculture, and offshore renewable energy.**
+## Tour the CIF Dashboard  
+<br>
 
 <div>
-	  <h3>Shipping</h3>
+  <h3>Shipping</h3>
   <img src="https://cif.polarview.org/wp-content/uploads/bb-plugin/cache/Shipping-Icon-circle-d3dfaffc3b3ce792813de5d7fdd64fdf-hwxq58bkvn93.png"
        alt="Shipping example"
        width="15%"><br>
