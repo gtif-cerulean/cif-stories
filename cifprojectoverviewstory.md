@@ -13,7 +13,6 @@
   <br>
 </div>
 
-
  <h3>Combining the Blue and Green Economies</h3>
   <p>Named for the blue-green colour, the CIF project reflects the need to combine the Blue and Green Economies in order to have a successful Green Transition. 
 Focused on shipping, aquaculture and offshore renewable energy, through close engagement with potential end users, CIF responds to your Green Transition decision-support needs. </p> 
@@ -32,16 +31,18 @@ In a cloud-based user environment, the CIF Dashboard offers decision-makers clic
 
 ## Image Tour section <!--{ as="img" mode="tour" position="right"}-->
 
-### <!--{ src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/0c60866543ab0ca5491143a1c6465c5cbd2296a5/assets/IMG1499-NPI-high-res-1760572999140.JPG" style="background: #fff0c4;" }-->
-#### This is an image tour.
-It allows you to have different sources for each tour "step".
+### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/OceanImageBank_TobyMatthews_17%E2%80%93orcaNorway.jpg?raw=true" style="background: #fff0c4;" }-->
+#### A focus on coldwater and polar regions 
+The CIF Dashboard offers a new view of ocean information, all in one place, allowing you to layer and visualize multiple ocean variables. 
+Photo credit: Ocean Image Bank: Thomas Horig
 
 ### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/IMG_1499NPI.JPG?raw=true" style="background: #ffe7ef;" }-->
-#### Second tour step.
-Each tour step is described as an *h3* (*###*) heading.
+#### Ready-to-go analyses
+Algorithms tailored to user needs have been developed and implemented on the CIF Dashboard so that you can get the information you need with a few clicks. 
 
-### <!--{ src="https://picsum.photos/900/800" style="background: #e2fffc;" }-->
+### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/OceanImageBank_ThomasHorig_15.jpg?raw=true" style="background: #e2fffc;" }-->
 #### Cloud-based decision-support
+Photo credit: Ocean Image Bank: Thomas Horig
 
 
 ## Tour the Dashboard
