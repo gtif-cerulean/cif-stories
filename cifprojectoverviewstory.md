@@ -15,16 +15,16 @@
 
  <h3>Combining the Blue and Green Economies</h3>
   <p>Named for the blue-green colour, the CIF project reflects the need to combine the Blue and Green Economies in order to have a successful Green Transition. 
-Focused on shipping, aquaculture and offshore renewable energy, through close engagement with potential end users, CIF responds to your Green Transition decision-support needs. </p> 
-	
+
 In the transition to create a sustainable world, how we view and understand the Earth are dramatically evolving with the ever-increasing availability of data, in particular, data from space. 
-
-With the acceleration of the development of AI techniques and cutting edge tools that take in data and create meaningful information, satellite-based data is helping us understand how our land, and our ocean, are changing. 
-
+	
 Using satellite-based data, the latest in data processing and AI techniques, and a user-centric environment, CIF offers a cloud-based data analysis and visualization environment for your needs in the North Atlantic and Arctic Oceans. 
 
-Taking satellite-based data and making into information that decision-makers can use to better inform their efforts to reach net-zero for communities, states, industries, marine protected areas, and more. 
 
+Focused on **shipping, aquaculture and offshore renewable energy,** through close engagement with end users, CIF's tools are taylor-made to support 
+	
+CIF responds to your Green Transition decision-support needs. </p> 
+	
 # CIF Dashboard <!--{ as="video" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-Dashboard1-1760640655409.mov" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/4295f1ff9c603860e178de188c93ee01355c2926/assets/CIF-Dashboard1-1760640655409.mov" }-->
 #### <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 In a cloud-based user environment, the CIF Dashboard offers decision-makers click-and-go tools to get the information they need to better inform their efforts to reach net-zero for communities, states, industries, marine protected areas, and more.
@@ -33,7 +33,11 @@ In a cloud-based user environment, the CIF Dashboard offers decision-makers clic
 
 ### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/OceanImageBank_TobyMatthews_17%E2%80%93orcaNorway.jpg?raw=true" style="background: #fff0c4;" }-->
 #### A focus on coldwater and polar regions 
-The CIF Dashboard offers a new view of ocean information, all in one place, allowing you to layer and visualize multiple ocean variables. 
+The CIF Dashboard offers a new view of ocean information, all in one place, allowing you to layer and visualize multiple ocean variables in three domains:
+Shipping
+Offshore Renewable Energy
+Aquaculture
+
 Photo credit: Ocean Image Bank: Thomas Horig
 
 ### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/IMG_1499NPI.JPG?raw=true" style="background: #ffe7ef;" }-->
@@ -43,12 +47,13 @@ Algorithms tailored to user needs have been developed and implemented on the CIF
 ### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/OceanImageBank_ThomasHorig_15.jpg?raw=true" style="background: #e2fffc;" }-->
 #### Cloud-based decision-support
 So you don't have to download and manage the load of satellite data files, CIF provides a cloud-based platform where you can conduct your analyses and export the results. 
+
 Photo credit: Ocean Image Bank: Thomas Horig
 
 ### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/OceanImageBank_TobyMatthews_17%E2%80%93orcaNorway.jpg?raw=true" style="background: #fff0c4;" }-->
 #### UN Ocean Decade 
 ![](https://cif.polarview.org/wp-content/uploads/2025/03/UN-Ocean-Decade-Logo.png)
-CIF has been deemed an Ocean Decade Action in support of taking that critical step of translating scientific data into information available to decision-makers. 
+CIF has been endorsed as a UN Ocean Decade Action, in support of taking that critical step of translating scientific data into information available to decision-makers. 
 
 Photo credit: Ocean Image Bank: Thomas Horig
 
