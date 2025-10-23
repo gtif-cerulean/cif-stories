@@ -31,7 +31,7 @@ As an organization handling tens of petabytes of space-based data, the European 
 #### <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 In a cloud-based user environment, the CIF Dashboard offers decision-makers click-and-go tools to get the information they need to better inform their efforts to reach net-zero for shipping, offshore renewable energy and aquaculture.
 
-## Image Tour section <!--{ as="img" mode="tour" position="right"}-->
+## What CIF delivers <!--{ as="img" mode="tour" position="right"}-->
 
 ### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/IMG_1499NPI.JPG?raw=true" style="background: #ffe7ef;" }-->
 #### CIF: A focus on coldwater and polar regions  
