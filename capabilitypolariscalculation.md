@@ -4,8 +4,10 @@ title: Capability_POLARIS_Calculation
 cover-image: https://picsum.photos/id/53/800/600
 ---
 
-# CIF Capability: POLARIS – Helping Ships Navigate Safely in Polar Waters <!--{ as="video" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
+# CIF Capability: POLARIS and navigating polar waters<!--{ as="video" mode="hero" src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/BAS-Weddell-Sea-Clip-21-1751546090329.mp4" }-->
 
+
+## A capability of the CIF Dashboard, the POLARIS algorithm connects ice charts with ... to help ships navigate safely in Polar waters  
 
 ## Background
 
@@ -78,6 +80,24 @@ On the **CIF Dashboard**, users can view:
 - Sea ice concentration maps  
 - POLARIS RIO results for different ship classes  
 - Real-time or historical scenarios  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
