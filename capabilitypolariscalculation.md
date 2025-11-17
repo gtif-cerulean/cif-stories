@@ -7,8 +7,9 @@ cover-image: https://picsum.photos/id/53/800/600
 # CIF Capability: POLARIS and navigating polar waters<!--{ as="video" mode="hero" src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/BAS-Weddell-Sea-Clip-21-1751546090329.mp4" }-->
 
 
-## A capability of the CIF Dashboard, the POLARIS algorithm links ship information (ice classes) with up-to-date sea-ice conditions to support safe navigation in polar waters.  
+## A capability of the CIF Dashboard, the POLARIS algorithm links ship information with up-to-date sea-ice conditions to support safe navigation in polar waters.  
 
+##
 <div>
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-wordmark1-1759774247335.png"
