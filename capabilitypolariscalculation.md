@@ -95,7 +95,7 @@ On the **CIF Dashboard**, users can view:
 
 ## Image Tour section <!--{ as="img" mode="tour" position="right"}-->
 
-### <!--{ src="https://github.com/BlackCA/cif-stories/blob/main/assets/BlackCA/OceanImageBank_DaniEscayola_35.jpg?raw=true" style="background: #fff0c4;" }-->
+### <!--{ src="https://github.com/BlackCA/cif-stories/blob/main/assets/BlackCA/OceanImageBank_VivekMehra_14_Antarctica.jpg?raw=true" style="background: #fff0c4;" }-->
 #### Visit the CIF website and Dashboard to learn more and try out the CIF Dashboard tools.
 
 ![](https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/QRcodeCIF-1759765426458.png)
