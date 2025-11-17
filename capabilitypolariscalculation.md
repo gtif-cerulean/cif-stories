@@ -105,7 +105,7 @@ Hover over regions of the POLARIS map to get more information:
 [Note: is there a way to increase the size of these images? 'width' doesn't seem to change the size.]
 
 #### Real-time or historical scenarios  
-
+[need maps for these.]
 
 
 
@@ -121,8 +121,6 @@ CIF Dashboard site: [cif.eox.at](https://cif.eox.at/)
 [cif.polarview.org](https://cif.polarview.org/) 
 
 Photo credit: Dani Escayola, Ocean Image Bank
-
-
 
 
 
