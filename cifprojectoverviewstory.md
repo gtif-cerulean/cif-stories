@@ -48,7 +48,7 @@ Algorithms tailored to user needs have been developed and implemented on the CIF
 
 Photo credit: Ocean Image Bank: Thomas Horig
 
-### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/OceanImageBank_ThomasHorig_15.jpg?raw=true" style="background: #e2fffc;" }-->
+### <!--{ src=""https://github.com/BlackCA/cif-stories/blob/main/assets/BlackCA/OceanImageBank_ThomasHorig_05.JPG?raw=true" style="background: #e2fffc;"" style="background: #e2fffc;" }-->
 #### Cloud-based decision-support
 So you don't have to download and manage satellite data files, CIF provides a cloud-based platform where you can conduct your analyses and export the results. 
 
