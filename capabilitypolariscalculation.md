@@ -91,12 +91,21 @@ On the **CIF Dashboard**, users can view:
 - POLARIS RIO results for different ship classes  
 - Real-time or historical scenarios  
 
-## Visit the CIF website to find out more and try out the CIF Dashboard tools
-<img src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/QRcodeCIF-1759765426458.png" alt="CIF website QR code" width="30%">
 
-CIF website:  [cif.polarview.org](https://cif.polarview.org/) 
+## Image Tour section <!--{ as="img" mode="tour" position="right"}-->
 
-CIF Dashboard: [cif.eox.at](https://cif.eox.at/)
+### <!--{ src="https://github.com/BlackCA/cif-stories/blob/main/assets/BlackCA/OceanImageBank_DaniEscayola_35.jpg?raw=true" style="background: #fff0c4;" }-->
+#### Visit the CIF website and Dashboard to learn more and try out the CIF Dashboard tools.
+
+![](https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/QRcodeCIF-1759765426458.png)
+
+Photo credit: Ocean Image Bank: Dani Escayola
+
+### CIF website:  [cif.polarview.org](https://cif.polarview.org/) 
+
+### CIF Dashboard: [cif.eox.at](https://cif.eox.at/)
+
+
 
 
 
