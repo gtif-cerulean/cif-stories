@@ -88,9 +88,17 @@ Once the algorithm processes a sea ice chart, it calculates **RIO values for eve
 
 On the **CIF Dashboard**, users can view:
 
-- Sea ice concentration maps  
-- POLARIS RIO results for different ship classes  
-- Real-time or historical scenarios  
+## POLARIS <!--{ as="eox-map" mode="tour" }-->
+
+Sea ice concentration maps  
+
+
+POLARIS RIO results for different ship classes  
+
+
+Real-time or historical scenarios  
+
+
 
 
 ## Image Tour section <!--{ as="img" mode="tour" position="right"}-->
