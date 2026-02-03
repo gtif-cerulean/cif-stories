@@ -8,7 +8,7 @@ tags: tag1
 official: true
 ---
 
-# CIF Capability: Structure Icing on off-shore infrastructure <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/structureicing/assets/BlackCA/OffShoreWindmillIcing-1770134061946.jpg" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/35ad041149bc014b205f9515224e10c0421d41df/assets/OffShoreWindmillIcing-1770134061946.jpg" }-->
+# CIF Capability: Structure icing on off-shore infrastructure <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/structureicing/assets/BlackCA/OffShoreWindmillIcing-1770134061946.jpg" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/35ad041149bc014b205f9515224e10c0421d41df/assets/OffShoreWindmillIcing-1770134061946.jpg" }-->
  <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 ## A capability of the CIF Dashboard, the Structure Icing algorithm links atmospheric and ocean conditions to estimate how quickly ice can accumulate on offshore structures such as wind turbines, ships, and platforms.  
 #
@@ -99,6 +99,5 @@ For every location and time period, the CIF Dashboard calculates:
 
 These outputs can be viewed as map layers and integrated with other CIF datasets to support decision-making.
 
-Structure Icing in the CIF Dashboard
 
-On the CIF Dashboard, users can explore historical and real-time icing risk maps, examine how icing potential varies across regions and seasons, and assess how environmental conditions translate into operational risks for offshore wind turbines and other marine structures.
+See the application of the [Structure Icing Index capability in the CIF Dashboard](https://cif.eox.at/uc1dashboard/?x=-37.4448&y=59.2537&z=4.3117&template=light&indicator=structureicing&datetime=2026-02-03). Explore historical and real-time icing risk maps, examine how icing potential varies across regions and seasons, and assess how environmental conditions translate into operational risks for offshore wind turbines and other marine structures.
