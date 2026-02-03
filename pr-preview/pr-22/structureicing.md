@@ -2,24 +2,28 @@
 ---
 title: StructureIcing
 theme: theme_name
-cover-image: https://picsum.photos/id/53/800/600
+cover-image: https://raw.githubusercontent.com/gtif-cerulean/cif-stories/35ad041149bc014b205f9515224e10c0421d41df/assets/OffShoreWindmillIcing-1770134061946.jpg
 date: 2025-01-01
 tags: tag1
 official: true
 ---
 
-# StructureIcing <!--{ as="video" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
+# CIF Capability: Structure Icing on off-shore infrastructure <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/structureicing/assets/BlackCA/OffShoreWindmillIcing-1770134061946.jpg" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/35ad041149bc014b205f9515224e10c0421d41df/assets/OffShoreWindmillIcing-1770134061946.jpg" }-->
+ <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
+## A capability of the CIF Dashboard, the Structure Icing algorithm links atmospheric and ocean conditions to estimate how quickly ice can accumulate on offshore structures such as wind turbines, ships, and platforms.  
 
-## StructureIcing
+#
+<div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-wordmark1-1759774247335.png"
+         alt="CIF logo"
+         width="50%"
+         style="margin-bottom: 0.5em;">
+  </div>
+  <br>
+</div>
 
-Text content
-
-## Section A
-Text content
-
-## Section B
-Text content
-		As offshore activity expands into colder ocean environments, ice is no longer only something that floats on the sea. In many environments, it grows directly on the structures themselves.    
+As offshore activity expands into colder ocean environments, ice is no longer only something that floats on the sea. In many environments, it grows directly on the structures themselves.    
 		
 For offshore wind turbines, ships, and platforms, atmospheric icing can quietly change how these structures behave. Ice accumulation can reduce turbine power production, damage blades, create hazards for personnel as ice sheds from height, and—even more critically for floating turbines—create dangerous balance issues. For ships and offshore platforms, heavy ice build-up can affect stability, access, and safety.
 
