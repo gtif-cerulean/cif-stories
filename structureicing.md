@@ -35,15 +35,15 @@ Cold climates offer advantages for wind energy. Colder air is denser, which incr
 Most icing events do not occur in extreme cold. Instead, they happen in the temperature range between −15°C and 0°C, when air contains enough moisture for droplets to freeze on contact with surfaces.
 
 Ice build-up on turbine blades can:
-	•	Reduce aerodynamic efficiency and lower power output
-	•	Force turbines to shut down for safety reasons
-	•	Increase mechanical wear and structural fatigue
-	•	Cause ice to fall from height, posing risks to nearby vessels and personnel
-	•	Create mass imbalances that are especially hazardous for floating turbines
+- Reduce aerodynamic efficiency and lower power output
+- Force turbines to shut down for safety reasons
+- Increase mechanical wear and structural fatigue
+- Cause ice to fall from height, posing risks to nearby vessels and personnel
+- Create mass imbalances that are especially hazardous for floating turbines
 
-For operators, icing can also lead to overly optimistic power forecasts if not properly anticipated.
+For operators, icing can also lead to overly optimistic power forecasts if not properly forecasted.
 
-The Three Ways Ice Forms on Offshore Structures
+### The Three Ways Ice Forms on Offshore Structures
 
 Atmospheric icing of offshore structures occurs through three main mechanisms:
 	1.	Sea spray icing
@@ -55,49 +55,43 @@ Water vapor in the air can freeze directly onto surfaces. While visually strikin
 
 Different combinations of temperature, wind speed, droplet size, and moisture content produce different kinds of ice, such as soft rime, hard rime, or dense glaze ice. These ice types behave very differently: some are light and brittle, while others form heavy, solid layers that are difficult to remove and more damaging to equipment.
 
-Structure Icing on Offshore Wind Turbines 
+## Image Tour section <!--{ as="img" mode="tour" position="right"}-->
 
-Who Needs Structure Icing Information?
-
+### <!--{ src="https://github.com/gtif-cerulean/cif-stories/blob/main/assets/BlackCA/BAS-Polarstern-Shackleton.jpg?raw=true" style="background: #ffe7ef;" }-->
+#### Who Needs Structure Icing Information?
 Several groups rely on understanding icing risks:
-	1.	Wind farm operators:
-To anticipate power losses, plan turbine shutdowns, and schedule maintenance safely.
-	2.	Marine operators and service crews:
-To assess whether it is safe to approach or work near iced structures.
-	3.	Design engineers and planners:
-To understand long-term icing exposure when planning new offshore installations in cold regions.
-	4.	Researchers and policymakers:
-To evaluate how icing risks change seasonally and geographically as offshore activity expands northward.
+1. **Wind farm operators:** to anticipate power losses, plan turbine shutdowns, and schedule maintenance safely.
+2. **Marine operators and service crews:** to assess whether it is safe to approach or work near iced structures.
+3. **Design engineers and planners:** to understand long-term icing exposure when planning new offshore installations in cold regions.
+4. **Researchers and policymakers:** to evaluate how icing risks change seasonally and geographically as offshore activity expands northward.
 
-What Data the CIF Dashboard Uses to Assess Icing
-
+## What Data the CIF Dashboard Uses to Predict Icing
 Assessing icing risk requires combining several environmental variables that control how quickly ice can form on a surface:
-	•	2 m air temperature
-	•	Sea surface temperature
-	•	Wind speed
-	•	Sea ice concentration (to determine when sea spray is possible)
-	•	Occurrence of freezing rain or wet snow
-	•	Sea surface salinity (which determines the freezing point of seawater)
+- 2 m air temperature
+- Sea surface temperature
+- Wind speed
+- Sea ice concentration (to determine when sea spray is possible)
+- Occurrence of freezing rain or wet snow
+- Sea surface salinity (which determines the freezing point of seawater)
 
 These variables are obtained from the ECMWF ERA5 reanalysis and global ocean reanalysis products and are processed into daily spatial averages for the region of interest.
 
-How the CIF Dashboard Assesses Structure Icing
+### How the CIF Dashboard Assesses Structure Icing
 
 The CIF Dashboard combines two well-established scientific models:
-	•	A sea spray icing model, originally developed for vessels and now widely used operationally, which estimates how quickly super-cooled sea spray can freeze onto a structure based on wind speed, air temperature, sea temperature, and seawater freezing point.
-	•	A precipitation icing model, which estimates ice accumulation from freezing rain and wet snow based on wind speed, droplet size, and the efficiency with which turbine blades collect freezing droplets.
+1. A sea spray icing model, originally developed for vessels and now widely used operationally, which estimates how quickly super-cooled sea spray can freeze onto a structure based on wind speed, air temperature, sea temperature, and seawater freezing point.
+2. A precipitation icing model, which estimates ice accumulation from freezing rain and wet snow based on wind speed, droplet size, and the efficiency with which turbine blades collect freezing droplets.
 
-Together, these models estimate how rapidly ice can accumulate on exposed structures such as turbine blades and offshore platforms under given environmental conditions.
+Together, these models estimate how rapidly ice can accumulate on exposed structures such as turbine blades and offshore platforms under environmental conditions ... .
 
-What CIF’s Dashboard Produces
+### What the CIF Dashboard Produces
 
-For every location and time period, the CIF Dashboard calculates:
-	•	The potential rate of ice accretion on offshore structures
-	•	Whether icing is likely driven by sea spray or precipitation
-	•	Maps showing where icing risks are low, moderate, or severe
-	•	Inputs for operational planning, forecasting, and long-term risk assessment
+For a selected location and time period, the CIF Dashboard calculates:
+- The potential rate of ice accretion on offshore structures
+- Whether icing is likely driven by sea spray or precipitation
+- Maps showing where icing risks are low, moderate, or severe
+- Inputs for operational planning, forecasting, and long-term risk assessment
 
 These outputs can be viewed as map layers and integrated with other CIF datasets to support decision-making.
-
 
 See the application of the [Structure Icing Index capability in the CIF Dashboard](https://cif.eox.at/uc1dashboard/?x=-37.4448&y=59.2537&z=4.3117&template=light&indicator=structureicing&datetime=2026-02-03). Explore historical and real-time icing risk maps, examine how icing potential varies across regions and seasons, and assess how environmental conditions translate into operational risks for offshore wind turbines and other marine structures.
