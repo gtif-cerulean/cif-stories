@@ -11,7 +11,6 @@ official: true
 # CIF Capability: Structure Icing on off-shore infrastructure <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/structureicing/assets/BlackCA/OffShoreWindmillIcing-1770134061946.jpg" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/35ad041149bc014b205f9515224e10c0421d41df/assets/OffShoreWindmillIcing-1770134061946.jpg" }-->
  <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 ## A capability of the CIF Dashboard, the Structure Icing algorithm links atmospheric and ocean conditions to estimate how quickly ice can accumulate on offshore structures such as wind turbines, ships, and platforms.  
-
 #
 <div>
   <div style="text-align: center;">
@@ -23,14 +22,13 @@ official: true
   <br>
 </div>
 
-As offshore activity expands into colder ocean environments, ice is no longer only something that floats on the sea. In many environments, it grows directly on the structures themselves.    
+As offshore activity expands in cold ocean environments, ice – not only on the sea surface – becomes a threat to safety and proper functioning of infrastructure. In the right conditions, ice grows directly on the structures themselves.    
 		
-For offshore wind turbines, ships, and platforms, atmospheric icing can quietly change how these structures behave. Ice accumulation can reduce turbine power production, damage blades, create hazards for personnel as ice sheds from height, and—even more critically for floating turbines—create dangerous balance issues. For ships and offshore platforms, heavy ice build-up can affect stability, access, and safety.
+For offshore wind turbines, ships, and platforms, atmospheric icing and icing due to sea spray can quietly change how these structures behave. Ice accumulation can reduce turbine power production, damage blades, create hazards for personnel as ice sheds from height, and—even more critically for floating turbines—create dangerous balance issues. For ships and offshore platforms, heavy ice build-up can affect stability, access, and safety.
 
+Understanding when, where, and how fast ice can accumulate on structures is an important part of operating safely in cold marine environments.
 
-Understanding when, where, and how fast ice can accumulate on structures is therefore an important part of operating safely in cold marine environments.
-
-Why Structure Icing Matters
+### Why Structure Icing Matters
 
 Cold climates offer advantages for wind energy. Colder air is denser, which increases potential power production. But these same environments also create ideal conditions for atmospheric icing.
 
