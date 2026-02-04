@@ -9,7 +9,7 @@ official: true
 # CIF Capability: Sea Ice Motion Animation <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/polarwarp/assets/BlackCA/DSC0294-1770215254818.JPG" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/51d15173321d5e6afc08fdff9da1a60e7bb1746d/assets/DSC0294-1770215254818.JPG" }-->
  <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
-## A capability of the CIF Dashboard, Sea Ice Motion Animation forecasts the future position of ice features by morphing satellite imagery using sea-ice drift and weather model data.
+## A capability of the CIF Dashboard, Sea Ice Motion Animation forecasts the future position of sea ice by morphing satellite imagery using sea-ice drift and weather model data.
 #
 <div>
   <div style="text-align: center;">
@@ -23,7 +23,7 @@ official: true
 
 In ice-covered waters, satellite images provide a snapshot of where the ice *was* when the satellite passed overhead. For vessels navigating dynamic pack ice, that is often not enough.
 
-Satellite Image Warping addresses this gap by transforming a recent SAR image into a forecasted view of where the same ice features are expected to be hours into the future. By combining ice drift estimates from sea-ice and atmospheric models with advanced image warping techniques, the capability produces a predicted version of the original satellite image.
+CIF's Sea Ice Motion Animation capability addresses this gap by transforming a recent satellite (SAR) image into a forecasted view of where the same ice features are expected to be hours into the future. By combining ice drift estimates from sea-ice and atmospheric models with advanced image warping techniques, the capability produces a predicted future version of the original satellite image.
 
 This allows operators to see not only the current ice situation, but how it is likely to evolve along their route.
 
@@ -38,16 +38,16 @@ For ship operators, this creates a challenge:
 
 By forecasting the drift of visible ice structures in the image, Satellite Image Warping turns static imagery into a dynamic planning tool.
 
-### Who Needs Satellite Image Warping Information?
+## Image Tour section <!--{ as="img" mode="tour" position="right"}-->
+### 
+<!--{ src="" style="background: #ffe7ef;" }-->
 
-Several groups benefit directly from this capability:
-
+#### Who Needs Satellite Image Warping Information?
+Several groups benefit from this capability:
 1. **Ship operators and ice navigators:** for tactical route adjustments in moving pack ice.
 2. **Marine service providers:** supporting vessels operating in ice-covered waters.
 3. **Research and governmental organizations:** studying sea-ice dynamics and operational risks.
 4. **Technology providers and analytics teams:** integrating forecasted imagery into decision-support systems.
-
-Examples of stakeholders include FedNav, Drift+Noise, and NRC.
 
 ## What Data the CIF Dashboard Uses to Warp Images
 
@@ -55,7 +55,7 @@ This capability combines two key data sources with user-defined parameters.
 
 ### SAR Image Data
 
-Although any georeferenced GeoTiff image can be used, the system is optimized for SAR imagery from:
+Although any georeferenced (GeoTiff) image can be used, the system is optimized for SAR imagery from:
 
 - [European Space Agency](chatgpt://generic-entity?number=0) **Sentinel-1**
 - [Canadian Space Agency](chatgpt://generic-entity?number=1) **RADARSAT Constellation Mission (RCM)**
@@ -91,7 +91,7 @@ The warping process follows several steps:
 5. Initial and predicted GCP positions are used to compute a transformation matrix.
 6. The image is warped using a **Thin Plate Spline (TPS)** algorithm, enabling smooth, non-rigid deformation of the image to reflect predicted ice movement.
 
-This results in a forecasted image showing where the same ice features are expected to be.
+This results in a forecasted image showing where the same ice features are expected to be up to **six hours into the future**.
 
 
 ## What the CIF Dashboard Produces
