@@ -6,10 +6,10 @@ date: 2025-01-01
 tags: tag1
 official: true
 ---
-# CIF Capability: Satellite Image Warping <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/polarwarp/assets/BlackCA/DSC0294-1770215254818.JPG" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/51d15173321d5e6afc08fdff9da1a60e7bb1746d/assets/DSC0294-1770215254818.JPG" }-->
+# CIF Capability: Sea Ice Motion Animation <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/polarwarp/assets/BlackCA/DSC0294-1770215254818.JPG" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/51d15173321d5e6afc08fdff9da1a60e7bb1746d/assets/DSC0294-1770215254818.JPG" }-->
  <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
-## A capability of the CIF Dashboard, Satellite Image Warping forecasts the future position of ice features by morphing satellite imagery using sea-ice drift and weather model data.
+## A capability of the CIF Dashboard, Sea Ice Motion Animation forecasts the future position of ice features by morphing satellite imagery using sea-ice drift and weather model data.
 #
 <div>
   <div style="text-align: center;">
