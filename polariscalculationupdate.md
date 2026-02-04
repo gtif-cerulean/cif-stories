@@ -89,17 +89,8 @@ Maps are colour-coded by RIO scores, and users can select a Ship Class of intere
 Hovering over the RIO regions on the map in the Dashboard provides information about that area:
 ![](https://github.com/BlackCA/cif-stories/blob/main/assets/BlackCA/POLARIS%E2%80%93hover.png?raw=true) <!--{width="700" }-->
 
-## Image Tour section <!--{ as="img" mode="tour" position="right"}-->
-
-### <!--{ src="https://github.com/BlackCA/cif-stories/blob/main/assets/BlackCA/OceanImageBank_VivekMehra_14_Antarctica.jpg?raw=true" style="background: #fff0c4;" }-->
-#### Visit the CIF Dashboard to try out the tools.
-![](https://github.com/BlackCA/cif-stories/blob/main/assets/BlackCA/CIFDashboard%E2%80%93qrcode.png?raw=true)
-CIF Dashboard site: [cif.eox.at](https://cif.eox.at/) 
-
-### Or visit the CIF website to learn more  
-[cif.polarview.org](https://cif.polarview.org/) 
-
-Photo credit: Dani Escayola, Ocean Image Bank
+## Try out the POLARIS capability in the CIF Dashboard
+See the application of the [POLARIS capability in the CIF Dashboard](https://cif.eox.at/uc1dashboard/?x=-25.0000&y=69.0715&z=3.4051&template=light&indicator=Polaris_algorithm_dmi_demo&datetime=2025-01-20). Explore historical and real-time POLARIS and RIO maps, examine how risk varies with ship class, and compare ice concentration and stage of development.
 
 
 
