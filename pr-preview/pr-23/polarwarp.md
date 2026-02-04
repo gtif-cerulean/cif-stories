@@ -96,9 +96,8 @@ For each forecast timestep, the CIF Dashboard generates:
 
 These outputs can be layered with other CIF data to support tactical navigation and operational decision-making.
 
-# Sea Ice Animation Example <!--{ as="video" data-fallback-src="" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
-#### <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
+# Example Animation <!--{ as="video" data-fallback-src="" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
+#### CAB: Waiting to export an animation from the Dashboard to put here <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Try out Satellite Image Warping on the CIF Dashboard
 Explore how recent SAR imagery can be transformed into [forecasted ice maps within the CIF Dashboard](https://cif.eox.at/uc1dashboard/?x=-180.0000&y=-80.0220&z=0.0000&template=light&indicator=polarwarp_sentinel1&datetime=2026-02-04). Compare original and warped images, examine how ice features are expected to drift, and use this information to support safer and more efficient navigation in polar waters.
-
