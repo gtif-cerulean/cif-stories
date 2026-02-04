@@ -38,9 +38,9 @@ For ship operators, this creates a challenge:
 
 By forecasting the drift of visible ice structures in the image, Satellite Image Warping turns static imagery into a dynamic planning tool.
 
-## Image Tour section <!--{ as="img" mode="tour" position="right"}-->
+## End Users <!--{ as="img" mode="tour" position="right"}-->
 ### 
-<!--{ src="" style="background: #ffe7ef;" }-->
+<!--{ src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/dbeb96cfefe862469fb2e4f1d9eeb11db5431e89/assets/DSC0302-1770222312982.JPG" style="background: #ffe7ef;" }-->
 
 #### Who Needs Satellite Image Warping Information?
 Several groups benefit from this capability:
@@ -50,30 +50,23 @@ Several groups benefit from this capability:
 4. **Technology providers and analytics teams:** integrating forecasted imagery into decision-support systems.
 
 ## What Data the CIF Dashboard Uses to Warp Images
-
 This capability combines two key data sources with user-defined parameters.
 
-### SAR Image Data
+#### SAR Image Data
 
 Although any georeferenced (GeoTiff) image can be used, the system is optimized for SAR imagery from:
+- European Space Agency's **Sentinel-1**
+- Canadian Space Agency's **RADARSAT Constellation Mission (RCM)**
 
-- [European Space Agency](chatgpt://generic-entity?number=0) **Sentinel-1**
-- [Canadian Space Agency](chatgpt://generic-entity?number=1) **RADARSAT Constellation Mission (RCM)**
+These images are pre-processed and provided in polar stereographic projection to ensure geometric correctness near the poles.
 
-These images are ideally pre-processed (e.g., in SNAP) and provided in polar stereographic projection to ensure geometric correctness near the poles.
+#### Model Data for Ice Drift
+Two model sources are available to estimate sea-ice drift:
+1. **Sea-ice model (neXtSIM)**: A lagrangian sea-ice model using elasto-brittle rheology to simulate fracturing and deformation of Arctic sea ice.
 
-### Model Data for Ice Drift
+2. **Weather model (ICON)**: Wind fields are converted into ice drift estimates using the Nansen rule (≈2.5% of wind speed with directional offset).
 
-Two model sources are available to estimate sea-ice drift.
-
-1. **[neXtSIM](chatgpt://generic-entity?number=2) sea-ice model**  
-   A lagrangian sea-ice model using elasto-brittle rheology to simulate fracturing and deformation of Arctic sea ice. Available via the [Copernicus Marine Service](chatgpt://generic-entity?number=3) and forced by ECMWF and TOPAZ5 inputs. Provides u/v ice drift components used directly for warping.
-
-2. **[ICON](chatgpt://generic-entity?number=4) weather model** developed by [Deutscher Wetterdienst](chatgpt://generic-entity?number=5)  
-   Wind fields are converted into ice drift estimates using the Nansen rule (≈2.5% of wind speed with directional offset). This allows application in both Arctic and Antarctic regions.
-
-### User-Defined Parameters
-
+#### User-Defined Parameters
 Users control the behavior of the warping process through:
 - Forecast duration (hours into the future)
 - Choice of model data (neXtSIM or ICON)
@@ -96,20 +89,16 @@ This results in a forecasted image showing where the same ice features are expec
 
 ## What the CIF Dashboard Produces
 
-For each forecast timestep, the system generates:
+For each forecast timestep, the CIF Dashboard generates:
 
-- A morphed GeoTiff image representing predicted ice positions
-- A shapefile containing the trajectories of all GCPs used in the transformation
+- A morphed image representing predicted ice positions
+- The trajectories of all points within the area of interest defined by the user
 
 These outputs can be layered with other CIF data to support tactical navigation and operational decision-making.
 
-## Map Tour Example <!--{ as="eox-map" mode="tour" }-->
-
-### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15,48] zoom="5" animationOptions="{duration:500}" }-->
-#### Tour Title
-Some description for tour 1
+# Sea Ice Animation Example <!--{ as="video" data-fallback-src="" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
+#### <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Try out Satellite Image Warping on the CIF Dashboard
-
-Explore how recent SAR imagery can be transformed into [forecasted ice maps within the CIF Dashboard](https://). Compare original and warped images, examine how ice features are expected to drift, and use this information to support safer and more efficient navigation in polar waters.
+Explore how recent SAR imagery can be transformed into [forecasted ice maps within the CIF Dashboard](https://cif.eox.at/uc1dashboard/?x=-180.0000&y=-80.0220&z=0.0000&template=light&indicator=polarwarp_sentinel1&datetime=2026-02-04). Compare original and warped images, examine how ice features are expected to drift, and use this information to support safer and more efficient navigation in polar waters.
 
