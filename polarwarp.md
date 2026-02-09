@@ -36,7 +36,7 @@ For ship operators, this creates a challenge:
 - Ice conditions may have changed significantly since acquisition
 - Tactical navigation decisions depend on anticipating where hazards will move
 
-By forecasting the drift of visible ice structures in the image, Satellite Image Warping turns static imagery into a dynamic planning tool.
+By forecasting the drift of visible ice structures in the image, Sea Ice Motion Animation turns static imagery into a dynamic planning tool.
 
 ## End Users <!--{ as="img" mode="tour" position="right"}-->
 ### 
@@ -49,7 +49,7 @@ Several groups benefit from this capability:
 3. **Research and governmental organizations:** studying sea-ice dynamics and operational risks.
 4. **Technology providers and analytics teams:** integrating forecasted imagery into decision-support systems.
 
-## What Data the CIF Dashboard Uses to Warp Images
+## What Data the CIF Dashboard Uses to Forecast Ice Motion
 This capability combines two key data sources with user-defined parameters.
 
 #### SAR Image Data
@@ -64,28 +64,14 @@ These images are pre-processed and provided in polar stereographic projection to
 Two model sources are available to estimate sea-ice drift:
 1. **Sea-ice model (neXtSIM)**: A lagrangian sea-ice model using elasto-brittle rheology to simulate fracturing and deformation of Arctic sea ice.
 
-2. **Weather model (ICON)**: Wind fields are converted into ice drift estimates using the Nansen rule (≈2.5% of wind speed with directional offset).
+2. **Weather model (ICON)**: Wind fields are converted into ice drift estimates using the Nansen rule (where sea ice typically moves at about 2.5% of the wind speed, and 20-40° to the right in the Northern Hemisphere due to the Coriolis effect).
 
 #### User-Defined Parameters
 Users control the behavior of the warping process through:
 - Forecast duration (hours into the future)
 - Choice of model data (neXtSIM or ICON)
-- Ground control point (GCP) spacing
+- Ground control point spacing
 - Output image resolution
-
-## How the CIF Dashboard Warps a Satellite Image
-
-The warping process follows several steps:
-
-1. Incoming SAR imagery is re-projected into EPSG:3413 (north) or EPSG:3031 (south) and converted to a square format.
-2. Ground Control Points (GCPs) are distributed across the image.
-3. Ice drift data from the chosen model is resampled to these GCPs.
-4. Each GCP is propagated forward in time using hourly drift steps for the selected forecast duration.
-5. Initial and predicted GCP positions are used to compute a transformation matrix.
-6. The image is warped using a **Thin Plate Spline (TPS)** algorithm, enabling smooth, non-rigid deformation of the image to reflect predicted ice movement.
-
-This results in a forecasted image showing where the same ice features are expected to be up to **six hours into the future**.
-
 
 ## What the CIF Dashboard Produces
 
@@ -94,7 +80,7 @@ For each forecast timestep, the CIF Dashboard generates:
 - A morphed image representing predicted ice positions
 - The trajectories of all points within the area of interest defined by the user
 
-These outputs can be layered with other CIF data to support tactical navigation and operational decision-making.
+The result is a forecasted image showing where the same ice features are expected to be up to **six hours into the future**. These outputs can be layered with other CIF data to support tactical navigation and operational decision-making.
 
 # Example Animation <!--{ as="video" data-fallback-src="" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
 #### CAB: Waiting to export an animation from the Dashboard to put here <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
