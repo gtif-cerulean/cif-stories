@@ -54,7 +54,7 @@ Different combinations of temperature, wind speed, droplet size, and moisture co
 
 ## Image Tour section <!--{ as="img" mode="tour" position="right"}-->
 ### 
-<!--{ src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/855e6e32713b08e47e7c3027c0d2a2778e47bd59/assets/IMG1179-NPI-high-res-1770148305979.JPG" style="background: #ffe7ef;" }-->
+<!--{ src="https://raw.githubusercontent.com/BlackCA/cif-stories/18ef9abd132764255b7b0ba270e9e591222131fa/assets/BlackCA/IMG_1312-NPI-high-res-scaled.jpg" style="background: #ffe7ef;" }-->
 
 #### Who Needs Structure Icing Information?
 Several groups rely on understanding icing risks:
