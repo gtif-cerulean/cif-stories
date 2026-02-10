@@ -103,12 +103,10 @@ def extract_metadata(file_path, base_url):
         img_url = fetch_and_resize_image(img_url, "output/assets/previews", 300)
     metadata.update({"image": img_url})
 
-    # Change official to provider, so that we do not have to update all stories
-    if metadata.get("official"):
-        metadata.update({"provider": "agency"})
-    else:
-        metadata.update({"provider": "community"})
-
+    if theme := metadata.get("theme"):
+        metadata.update({"theme": theme.split(",")})
+    if tags := metadata.get("tags"):
+        metadata.update({"tags": tags.split(",")})
     metadata.update({"file": file_url})
     return metadata
 
