@@ -1,7 +1,7 @@
 
 ---
-title: StructureIcing
-theme: theme_name
+title: Structure Icing
+theme: Energy
 cover-image: https://raw.githubusercontent.com/gtif-cerulean/cif-stories/35ad041149bc014b205f9515224e10c0421d41df/assets/OffShoreWindmillIcing-1770134061946.jpg
 date: 2025-01-01
 tags: tag1
