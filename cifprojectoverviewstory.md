@@ -2,7 +2,6 @@
 title: The Cerulean Information Factory
 cover-image: https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-wordmark1-1759774247335.png
 date: 2025-01-01
-theme: energy,shipping,aquaculture
 tags: test
 official: true
 ---
