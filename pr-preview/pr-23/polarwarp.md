@@ -27,7 +27,7 @@ CIF's Sea Ice Motion Animation capability addresses this gap by transforming a r
 
 This allows operators to see not only the current ice situation, but how it is likely to evolve along their route.
 
-### Why Satellite Image Warping Matters
+### Why Satellite Forecasting Ice Motion Matters
 
 In polar regions, sea ice is constantly in motion due to wind, currents, and internal ice dynamics. Leads open and close, pressure ridges form, and floes shift position over short time scales.
 
@@ -38,20 +38,10 @@ For ship operators, this creates a challenge:
 
 By forecasting the drift of visible ice structures in the image, Sea Ice Motion Animation turns static imagery into a dynamic planning tool.
 
-## End Users <!--{ as="img" mode="tour" position="right"}-->
-### <!--{ src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/9dfcedbd13917282778b7bc192b3897c97cd6027/assets/BlackCA/IMG1179-NPI-high-res-1770148305979.JPG" style="background: #ffe7ef;" }-->
-
-#### Who Needs Satellite Image Warping Information?
-Several groups benefit from this capability:
-1. **Ship operators and ice navigators:** for tactical route adjustments in moving pack ice.
-2. **Marine service providers:** supporting vessels operating in ice-covered waters.
-3. **Research and governmental organizations:** studying sea-ice dynamics and operational risks.
-4. **Technology providers and analytics teams:** integrating forecasted imagery into decision-support systems.
-
 ## Image Tour <!--{ as="img" mode="tour" position="right"}-->
-### <!--{ src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/9dfcedbd13917282778b7bc192b3897c97cd6027/assets/BlackCA/IMG1179-NPI-high-res-1770148305979.JPG" style="background: #e7f0ff;" }-->
+### <!--{ src="https://github.com/BlackCA/cif-stories/blob/BlackCA/polarwarp/assets/BlackCA/BAS-Polarstern-Shackleton.jpg?raw=true" style="background: #ffe7ef;" }-->
 
-#### Who Needs Forecasted Satellite Ice Movement Information?
+#### Who Needs Sea Ice Forecast Information?
 Several groups benefit from this capability:
 1. **Ship operators and ice navigators:** for tactical route adjustments in moving pack ice.
 2. **Marine service providers:** supporting vessels operating in ice-covered waters.
@@ -62,7 +52,6 @@ Several groups benefit from this capability:
 This capability combines two key data sources with user-defined parameters.
 
 #### SAR Image Data
-
 Although any georeferenced (GeoTiff) image can be used, the system is optimized for SAR imagery from:
 - European Space Agency's **Sentinel-1**
 - Canadian Space Agency's **RADARSAT Constellation Mission (RCM)**
@@ -83,7 +72,6 @@ Users control the behavior of the warping process through:
 - Output image resolution
 
 ## What the CIF Dashboard Produces
-
 For each forecast timestep, the CIF Dashboard generates:
 
 - A morphed image representing predicted ice positions
