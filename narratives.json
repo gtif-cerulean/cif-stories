@@ -1,12 +1,12 @@
 [
   {
-    "cover-image": "https://raw.githubusercontent.com/gtif-cerulean/cif-stories/refs/heads/main/assets/BlackCA/IMG_1499NPI.JPG",
-    "date": "2025-01-01",
+    "title": "Capability_POLARIS_Calculation",
+    "cover-image": "https://raw.githubusercontent.com/BlackCA/cif-stories/refs/heads/BlackCA/polarwarp/assets/BlackCA/polaris.png",
     "theme": "shipping",
-    "tags": "test",
+    "date": "2025-01-01",
+    "tags": "tag1",
     "official": true,
-    "title": "CIF Capability: POLARIS and navigating polar waters",
-    "image": "assets/previews/IMG_1499NPI_preview.png",
+    "image": "assets/previews/polaris_preview.png",
     "provider": "agency",
     "file": "https://gtif-cerulean.github.io/cif-stories/capabilitypolariscalculation.md"
   },
