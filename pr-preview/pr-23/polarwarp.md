@@ -1,7 +1,7 @@
 ---
 title: SatelliteImageWarping
 theme: theme_name
-cover-image: https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/polarwarp/assets/BlackCA/DSC0294-1770215254818.JPG
+cover-image: https://github.com/BlackCA/cif-stories/blob/BlackCA/polarwarp/assets/BlackCA/BAS-Polarstern-Shackleton.jpg?raw=true 
 date: 2025-01-01
 tags: tag1
 official: true

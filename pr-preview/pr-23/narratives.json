@@ -25,12 +25,12 @@
   {
     "title": "SatelliteImageWarping",
     "theme": "theme_name",
-    "cover-image": "https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/polarwarp/assets/BlackCA/DSC0294-1770215254818.JPG",
+    "cover-image": "https://github.com/BlackCA/cif-stories/blob/BlackCA/polarwarp/assets/BlackCA/BAS-Polarstern-Shackleton.jpg?raw=true",
     "date": "2025-01-01",
     "tags": "tag1",
     "official": true,
     "subtitle": "CAB: Waiting to export an animation from the Dashboard to put here",
-    "image": "assets/previews/DSC0294-1770215254818_preview.png",
+    "image": "assets/previews/BAS-Polarstern-Shackleton_preview.png",
     "provider": "agency",
     "file": "https://gtif-cerulean.github.io/cif-stories/pr-preview/pr-23/polarwarp.md"
   }
