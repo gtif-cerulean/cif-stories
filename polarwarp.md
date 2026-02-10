@@ -39,7 +39,7 @@ For ship operators, this creates a challenge:
 By forecasting the drift of visible ice structures in the image, Sea Ice Motion Animation turns static imagery into a dynamic planning tool.
 
 ## Image Tour <!--{ as="img" mode="tour" position="right"}-->
-### <!--{ src="https://github.com/BlackCA/cif-stories/blob/BlackCA/polarwarp/assets/BlackCA/BAS-Polarstern-Shackleton.jpg?raw=true" style="background: #ffe7ef;" }-->
+### <!--{ src="https://github.com/BlackCA/cif-stories/blob/BlackCA/polarwarp/assets/BlackCA/BAS-Polarstern-Shackleton.jpg?raw=true" style="background: #e7f0ff;" }-->
 
 #### Who Needs Sea Ice Forecast Information?
 Several groups benefit from this capability:
