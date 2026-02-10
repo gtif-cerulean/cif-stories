@@ -1,7 +1,7 @@
 ---
-cover-image: https://raw.githubusercontent.com/gtif-cerulean/cif-stories/refs/heads/main/assets/BlackCA/IMG_1499NPI.JPG
+cover-image: https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-wordmark1-1759774247335.png
 date: 2025-01-01
-theme: shipping
+theme: shipping, aquaculture, energy
 tags: test
 official: true
 ---
