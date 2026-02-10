@@ -1,4 +1,3 @@
-
 ---
 title: Structure Icing
 theme: Energy
