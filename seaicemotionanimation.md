@@ -87,8 +87,3 @@ The result is a forecasted image showing where the same ice features are expecte
 
 ## Try out Sea Ice Motion Animation on the CIF Dashboard
 Explore how recent SAR imagery can be transformed into [forecasted ice maps within the CIF Dashboard](https://cif.eox.at/uc1dashboard/?x=-180.0000&y=-80.0220&z=0.0000&template=light&indicator=polarwarp_sentinel1&datetime=2026-02-04). Compare original and warped images, examine how ice features are expected to drift, and use this information to support safer and more efficient navigation in polar waters.
-
-
-
-
-
