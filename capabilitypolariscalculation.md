@@ -2,7 +2,7 @@
 ---
 
 title: Capability_POLARIS_Calculation
-cover-image: https://raw.githubusercontent.com/BlackCA/cif-stories/refs/heads/main/assets/BlackCA/OceanImageBank_VivekMehra_14_Antarctica.jpg
+cover-image: https://raw.githubusercontent.com/BlackCA/cif-stories/refs/heads/BlackCA/polarwarp/assets/BlackCA/polaris.png
 
 ---
 
@@ -44,7 +44,7 @@ Each type of sea ice—new ice, first-year ice, multi-year ice, and so on—is a
 
 Using these factors, POLARIS produces a score called the **Risk Index Outcome (RIO)**. This score tells mariners whether the ship can proceed normally, should exercise caution, or should avoid an area altogether. POLARIS and RIO scores allow captains and voyage planners to make informed decisions based on ice conditions.
 
-## POLARIS and RIO <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/polaris-calculation-update/assets/BlackCA/1372aa7fcd8f4bce5020a7b5f4bc6b541d0084aad61391b8403b341e47ebb3d4-1770127022639.jpg" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/9c31c4f1d205ad9d67765db8d950ac8a42254cbc/assets/1372aa7fcd8f4bce5020a7b5f4bc6b541d0084aad61391b8403b341e47ebb3d4-1770127022639.jpg" style="width: 60%; height: px;"}-->
+## POLARIS and RIO <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/refs/heads/BlackCA/polarwarp/assets/BlackCA/HowPOLARISWorks.jpg" src="https://raw.githubusercontent.com/BlackCA/cif-stories/refs/heads/BlackCA/polarwarp/assets/BlackCA/HowPOLARISWorks.jpg" style="width: 60%; height: px;"}-->
 
 ## Who Uses POLARIS?
 
