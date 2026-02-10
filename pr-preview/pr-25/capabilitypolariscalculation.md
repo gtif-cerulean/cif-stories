@@ -1,6 +1,10 @@
 ---
 title: Capability_POLARIS_Calculation
 cover-image: https://raw.githubusercontent.com/BlackCA/cif-stories/refs/heads/BlackCA/polarwarp/assets/BlackCA/polaris.png
+theme: shipping
+date: 2025-01-01
+tags: tag1
+official: true
 ---
 
 # CIF Capability: POLARIS and navigating polar waters<!--{ as="video" mode="hero" src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/BAS-Weddell-Sea-Clip-21-1751546090329.mp4" }-->
