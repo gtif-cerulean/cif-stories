@@ -1,6 +1,6 @@
 ---
 title: The Cerulean Information Factory
-cover-image: https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-wordmark1-1759774247335.png
+cover-image: https://github.com/BlackCA/cif-stories/blob/BlackCA/2ndupdates-20260210/assets/BlackCA/SeaIceAge.png?raw=true
 date: 2025-01-01
 tags: test
 official: true
