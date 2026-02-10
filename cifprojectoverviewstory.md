@@ -1,7 +1,7 @@
 ---
 cover-image: https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-wordmark1-1759774247335.png
 date: 2025-01-01
-theme: shipping, aquaculture, energy
+theme: energy,shipping,aquaculture
 tags: test
 official: true
 ---
@@ -123,9 +123,6 @@ Ranging from no icing (blue) to extreme icing at a rate of above 4 cm/hr (red), 
 the Harshness Index support site planning for aquaculture. Input your requirements and weightings (relative importance) for maximum wave height, ice and iceberg concentration, ranging from optimal (blue) to least suitable (red).  
 
 
-## Visit the CIF website to find out more and try out the CIF Dashboard tools
-<img src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/QRcodeCIF-1759765426458.png" alt="CIF website QR code" width="30%">
+## Try out the CIF capabilities in the CIF Dashboard
+Visit the [CIF Dashboard](https://cif.eox.at/) to explore historical and near real-time ocean and sea-ice layers across shipping, offshore renewable energy, and aquaculture, compare conditions across regions and seasons, and see how these data translate into practical decision support for planning and operations.
 
-CIF website:  [cif.polarview.org](https://cif.polarview.org/) 
-
-CIF Dashboard: [cif.eox.at](https://cif.eox.at/)
