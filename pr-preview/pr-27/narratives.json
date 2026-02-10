@@ -1,0 +1,42 @@
+[
+  {
+    "title": "POLARIS for navigation in ice",
+    "cover-image": "https://raw.githubusercontent.com/BlackCA/cif-stories/refs/heads/BlackCA/polarwarp/assets/BlackCA/polaris.png",
+    "theme": [
+      "shipping"
+    ],
+    "date": "2025-01-01",
+    "tags": [
+      "tag1"
+    ],
+    "official": true,
+    "image": "assets/previews/polaris_preview.png",
+    "file": "https://gtif-cerulean.github.io/cif-stories/pr-preview/pr-27/capabilitypolariscalculation.md"
+  },
+  {
+    "title": "Structure Icing",
+    "theme": [
+      "energy"
+    ],
+    "cover-image": "https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/structureicing/assets/BlackCA/OffShoreWindmillIcing-1770134061946.jpg",
+    "date": "2025-01-01",
+    "tags": [
+      "tag1"
+    ],
+    "official": true,
+    "image": "assets/previews/OffShoreWindmillIcing-1770134061946_preview.png",
+    "file": "https://gtif-cerulean.github.io/cif-stories/pr-preview/pr-27/structureicing.md"
+  },
+  {
+    "title": "The Cerulean Information Factory",
+    "cover-image": "https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-wordmark1-1759774247335.png",
+    "date": "2025-01-01",
+    "tags": [
+      "test"
+    ],
+    "official": true,
+    "subtitle": " ",
+    "image": "assets/previews/CIF-wordmark1-1759774247335_preview.png",
+    "file": "https://gtif-cerulean.github.io/cif-stories/pr-preview/pr-27/cifprojectoverviewstory.md"
+  }
+]
