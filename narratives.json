@@ -2,35 +2,44 @@
   {
     "title": "Capability_POLARIS_Calculation",
     "cover-image": "https://raw.githubusercontent.com/BlackCA/cif-stories/refs/heads/BlackCA/polarwarp/assets/BlackCA/polaris.png",
-    "theme": "shipping",
+    "theme": [
+      "shipping"
+    ],
     "date": "2025-01-01",
-    "tags": "tag1",
+    "tags": [
+      "tag1"
+    ],
     "official": true,
     "image": "assets/previews/polaris_preview.png",
-    "provider": "agency",
     "file": "https://gtif-cerulean.github.io/cif-stories/capabilitypolariscalculation.md"
   },
   {
     "title": "Structure Icing",
-    "theme": "Energy",
+    "theme": [
+      "Energy"
+    ],
     "cover-image": "https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/structureicing/assets/BlackCA/OffShoreWindmillIcing-1770134061946.jpg",
     "date": "2025-01-01",
-    "tags": "tag1",
+    "tags": [
+      "tag1"
+    ],
     "official": true,
     "image": "assets/previews/OffShoreWindmillIcing-1770134061946_preview.png",
-    "provider": "agency",
     "file": "https://gtif-cerulean.github.io/cif-stories/structureicing.md"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/gtif-cerulean/cif-stories/refs/heads/main/assets/BlackCA/IMG_1499NPI.JPG",
     "date": "2025-01-01",
-    "theme": "shipping",
-    "tags": "test",
+    "theme": [
+      "shipping"
+    ],
+    "tags": [
+      "test"
+    ],
     "official": true,
     "title": "Cerulean Information Factory: a green future for the blue ocean",
     "subtitle": " ",
     "image": "assets/previews/IMG_1499NPI_preview.png",
-    "provider": "agency",
     "file": "https://gtif-cerulean.github.io/cif-stories/cifprojectoverviewstory.md"
   }
 ]
