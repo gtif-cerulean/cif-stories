@@ -53,8 +53,7 @@ Atmospheric icing of offshore structures occurs through three main mechanisms:
 Different combinations of temperature, wind speed, droplet size, and moisture content produce different kinds of ice, such as soft rime, hard rime, or dense glaze ice. These ice types behave very differently: some are light and brittle, while others form heavy, solid layers that are difficult to remove and more damaging to equipment.
 
 ## Image Tour <!--{ as="img" mode="tour" position="right"}-->
-### 
-<!--{ src="https://raw.githubusercontent.com/BlackCA/cif-stories/18ef9abd132764255b7b0ba270e9e591222131fa/assets/BlackCA/IMG_1312-NPI-high-res-scaled.jpg" style="background: #ffe7ef;" }-->
+### <!--{ src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/9dfcedbd13917282778b7bc192b3897c97cd6027/assets/BlackCA/IMG1179-NPI-high-res-1770148305979.JPG" style="background: #ffe7ef;" }-->
 
 #### Who Needs Structure Icing Information?
 Several groups rely on understanding icing risks:
