@@ -1,20 +1,21 @@
 ---
-cover-image: https://raw.githubusercontent.com/gtif-cerulean/cif-stories/refs/heads/main/assets/BlackCA/IMG_1499NPI.JPG
+title: The Cerulean Information Factory
+cover-image: https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-wordmark1-1759774247335.png
 date: 2025-01-01
-theme: shipping
+theme: energy,shipping,aquaculture
 tags: test
 official: true
 ---
 # Cerulean Information Factory: a green future for the blue ocean <!--{ as="video" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/PXL20240402092954951reduced-1759775388489.mov" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/e64a7021c810f461096da22f559980b239774333/assets/PXL20240402092954951reduced-1759775388489.mov" }-->
 ####  <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
-## The Cerulean Information Factory (CIF), a project funded by the European Space Agency, provides sustainabiliy-oriented decision support tools for the North Atlantic and Arctic Ocean
+## The Cerulean Information Factory (CIF) is a demonstrator project funded by the European Space Agency that provides sustainabiliy-oriented decision support tools for the North Atlantic and Arctic Ocean
 
 <div>
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-wordmark1-1759774247335.png"
          alt="CIF logo"
-         width="50%"
+         width="55%"
          style="margin-bottom: 0.5em;">
   </div>
   <br>
@@ -123,9 +124,6 @@ Ranging from no icing (blue) to extreme icing at a rate of above 4 cm/hr (red), 
 the Harshness Index support site planning for aquaculture. Input your requirements and weightings (relative importance) for maximum wave height, ice and iceberg concentration, ranging from optimal (blue) to least suitable (red).  
 
 
-## Visit the CIF website to find out more and try out the CIF Dashboard tools
-<img src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/QRcodeCIF-1759765426458.png" alt="CIF website QR code" width="30%">
+## Try out the CIF capabilities in the CIF Dashboard
+Visit the [CIF Dashboard](https://cif.eox.at/) to explore historical and near real-time ocean and sea-ice layers across shipping, offshore renewable energy, and aquaculture, compare conditions across regions and seasons, and see how these data translate into practical decision support for planning and operations.
 
-CIF website:  [cif.polarview.org](https://cif.polarview.org/) 
-
-CIF Dashboard: [cif.eox.at](https://cif.eox.at/)
