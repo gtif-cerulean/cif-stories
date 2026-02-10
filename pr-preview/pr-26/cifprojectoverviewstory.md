@@ -8,13 +8,13 @@ official: true
 # Cerulean Information Factory: a green future for the blue ocean <!--{ as="video" data-fallback-src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/PXL20240402092954951reduced-1759775388489.mov" mode="hero" src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/e64a7021c810f461096da22f559980b239774333/assets/PXL20240402092954951reduced-1759775388489.mov" }-->
 ####  <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
-## The Cerulean Information Factory (CIF), a project funded by the European Space Agency, provides sustainabiliy-oriented decision support tools for the North Atlantic and Arctic Ocean
+## The Cerulean Information Factory (CIF) is a demonstrator project funded by the European Space Agency that provides sustainabiliy-oriented decision support tools for the North Atlantic and Arctic Ocean
 
 <div>
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/CIF-wordmark1-1759774247335.png"
          alt="CIF logo"
-         width="50%"
+         width="55%"
          style="margin-bottom: 0.5em;">
   </div>
   <br>
