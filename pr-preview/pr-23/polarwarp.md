@@ -49,6 +49,16 @@ Several groups benefit from this capability:
 3. **Research and governmental organizations:** studying sea-ice dynamics and operational risks.
 4. **Technology providers and analytics teams:** integrating forecasted imagery into decision-support systems.
 
+## Image Tour <!--{ as="img" mode="tour" position="right"}-->
+### <!--{ src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/9dfcedbd13917282778b7bc192b3897c97cd6027/assets/BlackCA/IMG1179-NPI-high-res-1770148305979.JPG" style="background: #e7f0ff;" }-->
+
+#### Who Needs Forecasted Satellite Ice Movement Information?
+Several groups benefit from this capability:
+1. **Ship operators and ice navigators:** for tactical route adjustments in moving pack ice.
+2. **Marine service providers:** supporting vessels operating in ice-covered waters.
+3. **Research and governmental organizations:** studying sea-ice dynamics and operational risks.
+4. **Technology providers and analytics teams:** integrating forecasted imagery into decision-support systems.
+
 ## What Data the CIF Dashboard Uses to Forecast Ice Motion
 This capability combines two key data sources with user-defined parameters.
 
