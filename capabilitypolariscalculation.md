@@ -1,5 +1,5 @@
 ---
-title: Capability_POLARIS_Calculation
+title: POLARIS for navigation in ice 
 cover-image: https://raw.githubusercontent.com/BlackCA/cif-stories/refs/heads/BlackCA/polarwarp/assets/BlackCA/polaris.png
 theme: shipping
 date: 2025-01-01
@@ -7,7 +7,7 @@ tags: tag1
 official: true
 ---
 
-# CIF Capability: POLARIS and navigating polar waters<!--{ as="video" mode="hero" src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/BAS-Weddell-Sea-Clip-21-1751546090329.mp4" }-->
+# CIF Capability: POLARIS and navigating ice conditions<!--{ as="video" mode="hero" src="https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/cif-projectoverviewstory/assets/BlackCA/BAS-Weddell-Sea-Clip-21-1751546090329.mp4" }-->
 
 
 ## A capability of the CIF Dashboard, the POLARIS algorithm links ship information with up-to-date sea-ice conditions to support safe navigation in polar waters.  
@@ -78,7 +78,7 @@ Once the algorithm processes a sea ice chart, it calculates **RIO values for eve
 
 On the **CIF Dashboard**, users can view sea ice concentration maps, POLARIS RIO results for different ship classes, and real-time or historical scenarios, as demonstrated below.  
 
-## POLARIS <!--{ as="eox-map" mode="tour" }-->
+## POLARIS map example <!--{ as="eox-map" mode="tour" }-->
 
 ### <!--{ layers='[{"type":"Group","properties":{"id":"BaseLayersGroup","title":"Base Layers"},"layers":[{"type":"Tile","properties":{"id":"eox-osm;:;EPSG:3857","title":"OSM Background"},"source":{"type":"XYZ","url":"//s2maps-tiles.eu/wmts/1.0.0/osm_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ OSM: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors and <a href=\"//maps.eox.at/#data\" target=\"_blank\">others</a>, Rendering &copy; <a href=\"http://eox.at\" target=\"_blank\">EOX</a> }"}}]},{"type":"Vector","style":{"fill-color":["match",["get","wmo_concentration"],"Ice Free",[0,100,255,1],"Open Water (< 1/10 ice)",[150,200,255,1],"Bergy Water",[150,200,255,1],"1/10",[140,255,159,1],"2/10",[140,255,159,1],"3/10",[140,255,159,1],"4/10",[255,255,0,1],"5/10",[255,255,0,1],"6/10",[255,255,0,1],"7/10",[255,125,7,1],"8/10",[255,125,7,1],"9/10",[255,0,0,1],"10/10",[255,0,0,1],"9/10 to 10/10 ice, 9+/10",[255,0,0,1],"Unknown/Undetermined",[255,255,255,1],[255,255,255,1]],"stroke-color":"black","stroke-width":1},"source":{"type":"FlatGeoBuf","url":"https://workspace-ui-public.cif.gtif.eox.at/api/public/share/public-4wazei3y-02/output-polaris/202501182050_CentralWest_RIC-processed.fgb","projection":"EPSG:4326"},"properties":{"id":"Polaris_algorithm_dmi_demo;:;2025-01-18T20:50:00Z;:;0","title":"POLARIS"}}]' zoom="6.3231" center=[-55.856266337204524,69.49965576414462]}-->
 #### Sea ice concentration maps
