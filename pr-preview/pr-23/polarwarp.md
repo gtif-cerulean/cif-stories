@@ -39,8 +39,7 @@ For ship operators, this creates a challenge:
 By forecasting the drift of visible ice structures in the image, Sea Ice Motion Animation turns static imagery into a dynamic planning tool.
 
 ## End Users <!--{ as="img" mode="tour" position="right"}-->
-### 
-<!--{ src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/dbeb96cfefe862469fb2e4f1d9eeb11db5431e89/assets/DSC0302-1770222312982.JPG" style="background: #ffe7ef;" }-->
+### <!--{ src="https://raw.githubusercontent.com/gtif-cerulean/cif-stories/9dfcedbd13917282778b7bc192b3897c97cd6027/assets/BlackCA/IMG1179-NPI-high-res-1770148305979.JPG" style="background: #ffe7ef;" }-->
 
 #### Who Needs Satellite Image Warping Information?
 Several groups benefit from this capability:
