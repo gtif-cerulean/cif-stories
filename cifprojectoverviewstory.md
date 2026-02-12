@@ -1,5 +1,6 @@
 ---
 title: The Cerulean Information Factory
+theme: At-a-glance
 cover-image: https://github.com/BlackCA/cif-stories/blob/BlackCA/2ndupdates-20260210/assets/BlackCA/SeaIceAge.png?raw=true
 date: 2025-01-01
 tags: test
