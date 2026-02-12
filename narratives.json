@@ -14,6 +14,20 @@
     "file": "https://gtif-cerulean.github.io/cif-stories/structureicing.md"
   },
   {
+    "title": "Sea Ice Motion Animation",
+    "theme": [
+      "shipping"
+    ],
+    "cover-image": "https://github.com/BlackCA/cif-stories/blob/BlackCA/polarwarp/assets/BlackCA/BAS-Polarstern-Shackleton.jpg?raw=true",
+    "date": "2025-01-01",
+    "tags": [
+      "tag1"
+    ],
+    "official": true,
+    "image": "assets/previews/BAS-Polarstern-Shackleton_preview.png",
+    "file": "https://gtif-cerulean.github.io/cif-stories/seaicemotionanimation.md"
+  },
+  {
     "title": "The Cerulean Information Factory",
     "theme": [
       "At-a-glance"
