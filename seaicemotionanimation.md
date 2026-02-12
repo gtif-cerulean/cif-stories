@@ -1,5 +1,3 @@
-
-
 ---
 title: Sea Ice Motion Animation
 theme: shipping
