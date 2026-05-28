@@ -1,17 +1,18 @@
 [
   {
-    "title": "Structure Icing",
+    "title": "The Cerulean Information Factory",
     "theme": [
-      "energy"
+      "At-a-glance"
     ],
-    "cover-image": "https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/structureicing/assets/BlackCA/OffShoreWindmillIcing-1770134061946.jpg",
+    "cover-image": "https://github.com/BlackCA/cif-stories/blob/BlackCA/2ndupdates-20260210/assets/BlackCA/SeaIceAge.png?raw=true",
     "date": "2025-01-01",
     "tags": [
-      "tag1"
+      "test"
     ],
     "official": true,
-    "image": "assets/previews/OffShoreWindmillIcing-1770134061946_preview.png",
-    "file": "https://gtif-cerulean.github.io/cif-stories/structureicing.md"
+    "subtitle": " ",
+    "image": "assets/previews/SeaIceAge_preview.png",
+    "file": "https://gtif-cerulean.github.io/cif-stories/cifprojectoverviewstory.md"
   },
   {
     "title": "Sea Ice Motion Animation",
@@ -28,19 +29,18 @@
     "file": "https://gtif-cerulean.github.io/cif-stories/seaicemotionanimation.md"
   },
   {
-    "title": "The Cerulean Information Factory",
+    "title": "Structure Icing",
     "theme": [
-      "At-a-glance"
+      "energy"
     ],
-    "cover-image": "https://github.com/BlackCA/cif-stories/blob/BlackCA/2ndupdates-20260210/assets/BlackCA/SeaIceAge.png?raw=true",
+    "cover-image": "https://raw.githubusercontent.com/BlackCA/cif-stories/BlackCA/structureicing/assets/BlackCA/OffShoreWindmillIcing-1770134061946.jpg",
     "date": "2025-01-01",
     "tags": [
-      "test"
+      "tag1"
     ],
     "official": true,
-    "subtitle": " ",
-    "image": "assets/previews/SeaIceAge_preview.png",
-    "file": "https://gtif-cerulean.github.io/cif-stories/cifprojectoverviewstory.md"
+    "image": "assets/previews/OffShoreWindmillIcing-1770134061946_preview.png",
+    "file": "https://gtif-cerulean.github.io/cif-stories/structureicing.md"
   },
   {
     "title": "POLARIS for navigation in ice",
